@@ -23,10 +23,10 @@ module IMPORTXML
 
     paths: {
       # RMX root with the directories rmxdb, rmxpanel, rmxserv, rmxproto, rmxstream
-      import_emx_channels_root: File.expand_path("../..", __FILE__),
+      xml_emx_channels: File.expand_path("../../xml/emx", __FILE__),
 
-      # Temporal directory to upload audio files to
-      xml_channels_dir: File.expand_path("../../xml", __FILE__),
+      xml_bdhits_channels: File.expand_path("../../xml/bdhits", __FILE__),
+
     }
     
   }
