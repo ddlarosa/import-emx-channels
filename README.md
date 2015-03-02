@@ -15,7 +15,7 @@ sudo apt-get install git ruby2.2 ruby2.2-dev libxml2-dev libxslt1-dev \
 
 Clonar los repositorios de servidor (Git Hub):
 
-git clone git@github.com:ddlarosa/import-emx-channels.git
+git clone https://github.com/ddlarosa/import-emx-channels
 
 ### Fichero de configuración
 
