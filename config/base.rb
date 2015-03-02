@@ -12,13 +12,13 @@ module IMPORTXML
       host: 'localhost',
 
       # DB user
-      user: 'rmx',
+      user: 'root',
 
       # DB password
-      password: 'rmx',
+      password: 'musicam',
 
       # Database
-      database: 'rmx',
+      database: 'rms',
     },
 
     paths: {
