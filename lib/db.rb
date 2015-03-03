@@ -27,7 +27,7 @@ def check_db
   end
 end
 
-def channels_show 
+def show_channels 
   begin
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
 
@@ -51,3 +51,70 @@ def channels_show
   end
 end
 
+def check_channel channel_number
+  begin
+    con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
+    rs = con.query("SELECT * FROM channels WHERE channel_num=#{channel_number}")
+    rs.count
+
+  rescue Mysql2::Error => e
+    puts e.errno
+    puts e.error
+  ensure
+    con.close if con
+  end
+end
+
+def get_channel_id channel_number
+  begin
+    channel_id=""
+    con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
+    rs = con.query("SELECT * FROM channels WHERE channel_num=#{channel_number}")
+
+    rs.each do |row|
+      channel_id=row['channel_id']
+    end
+   
+    return channel_id
+
+  rescue Mysql2::Error => e
+    puts e.errno
+    puts e.error
+  ensure
+    con.close if con
+  end
+end
+
+def create_channel channel_number, channel_name
+  begin
+    con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
+    channel_id=generate_unique_id
+    
+    rs=con.query("INSERT INTO channels (channel_id,channel_num,channel_description,channel_enabled) VALUES('#{channel_id}','#{channel_number}','#{channel_name}',0)") 
+    
+    puts "The channel #{channel_name} has been created"
+    return channel_id 
+  rescue Mysql2::Error => e
+    puts e.errno
+    puts e.error
+  ensure
+    con.close if con
+  end
+end
+
+
+def remove_old_playlists
+  begin
+    date=(Time.now-(15*60)).strftime("%Y-%m-%d %H:%M:%S");
+    con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
+    #puts "DELETE FROM playlists_calendar WHERE calendar_datetime <= '#{date}'" 
+    con.query("DELETE FROM playlists_calendar WHERE calendar_datetime <= '#{date}'");
+
+    puts "The query has affected #{con.affected_rows} rows"
+  rescue Mysql2::Error => e
+    puts e.errno
+    puts e.error
+  ensure
+    con.close if con
+  end
+end

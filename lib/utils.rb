@@ -20,3 +20,9 @@ def get_emx_to_process xml_path,date
   #Get all xml from xml_path
   xml_files=Dir["#{xml_path}#{date}*.xml"]
 end
+
+def generate_unique_id
+  date = Time.new.strftime("%M%S")
+  random_number=(0...8).map {(65 + rand(26))}.join
+  random_number+=date;
+end

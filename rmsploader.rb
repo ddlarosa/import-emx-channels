@@ -8,6 +8,8 @@
 require_relative 'config/base'
 require_relative 'lib/utils'
 require_relative 'lib/xml'
+require_relative 'lib/db'
+require 'pp'
 require 'optparse'
 require 'optparse/time'
 require 'ostruct'
@@ -51,14 +53,23 @@ end
 
 #Get the date depens on number day
 date = get_date_loader number_day
-#puts "#{date}"
 
-xmls_to_process=get_emx_to_process xml_path,date 
+remove_old_playlists
+
+xmls_to_process=get_emx_to_process(xml_path,date) 
 
 xmls_to_process.each do |xml_file|
- puts "Processing the file #{xml_file}"
- #Get the playlist belongs to this channels and date 
- read_emx_xml xml_file 
-end 
+ channel_id=""
 
-  
+ #Get the playlist belongs to this channels and date 
+ playlist=read_emx_xml(xml_file) 
+
+ if (check_channel(playlist.channel_number)==0)
+   channel_id=create_channel(playlist.channel_id, playlist.channel_name)
+ elsif
+   channel_id=get_channel_id(playlist.channel_number)
+ end
+
+ puts "Processing the file #{xml_file} #{channel_id}"
+
+end 

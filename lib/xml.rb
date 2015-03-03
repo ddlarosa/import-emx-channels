@@ -34,17 +34,17 @@ playlist=Playlist.new
         end
       elsif node.name == 'PLAYLIST'  # /playlists/playlist
          begin
-          playlist.channel_id = CGI::unescape_html node.attribute('canal')
+          playlist.channel_number = CGI::unescape_html node.attribute('canal')
 	  playlist.channel_name = CGI::unescape_html node.attribute('nombrecanal')
         rescue StandardError => e
           errors += 1
           puts "\tERROR parsing item #{n}: #{e.message}"
         end
       elsif node.name == 'playlists'  # /playlists
-        puts "ENTRAMOS PLAYLISTS" 
+        puts "ENTAMOS EN PLAYLISTS"
       end
     end
   end 
-  pp playlist
+  return playlist
 end
 
