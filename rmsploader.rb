@@ -6,12 +6,15 @@
 #
 
 require_relative 'config/base'
+require_relative 'lib/utils'
+require_relative 'lib/xml'
 require 'optparse'
 require 'optparse/time'
 require 'ostruct'
 
 #The number of day to process
 number_day=nil
+xml_path="#{IMPORTXML::Config[:paths][:xml_emx_channels]}/"
 
 options = OpenStruct.new
 
@@ -46,4 +49,16 @@ elsif
   end  
 end
 
-puts "Number of day to process #{number_day}"
+#Get the date depens on number day
+date = get_date_loader number_day
+#puts "#{date}"
+
+xmls_to_process=get_emx_to_process xml_path,date 
+
+xmls_to_process.each do |xml_file|
+ puts "Processing the file #{xml_file}"
+ #Get the playlist belongs to this channels and date 
+ read_emx_xml xml_file 
+end 
+
+  
