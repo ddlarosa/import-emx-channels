@@ -1,337 +1,396 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <PLAYLISTS>
-  <PLAYLIST canal="79" nombrecanal="79 Springfield" web="0">
-    <CANCION fecha="25/02/2015 00:00:00" duracion="209" categ="0" interprete="Astrud Gilberto" titulo="Look To The Rainbow">/home/musicam/ogg/016289800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:03:29" duracion="223" categ="0" interprete="Duffy" titulo="Warwick Avenue">/home/musicam/ogg/011303300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:07:12" duracion="307" categ="0" interprete="Sven Van Hees" titulo="Matrass Mambo">/home/musicam/ogg/001507100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:12:20" duracion="227" categ="0" interprete="Thievery Corporation" titulo="38.45 A Thievery Number">/home/musicam/ogg/018391500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:16:08" duracion="272" categ="0" interprete="Gare Du Nord" titulo="Come On Everybody">/home/musicam/ogg/012635400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:20:41" duracion="227" categ="0" interprete="Nekta" titulo="History Is Pearshaped">/home/musicam/ogg/015256400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:24:28" duracion="278" categ="0" interprete="Kate Rogers" titulo="Fine">/home/musicam/ogg/002203800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:29:07" duracion="234" categ="0" interprete="Jazzamor" titulo="Fly">/home/musicam/ogg/004934800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:33:02" duracion="310" categ="0" interprete="Monodeluxe / Jean Honeymoon" titulo="Without You">/home/musicam/ogg/013754700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:38:12" duracion="327" categ="0" interprete="Sienna Joy" titulo="I Shall Find Out When I Get There">/home/musicam/ogg/013217600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:43:39" duracion="312" categ="0" interprete="Natalie Cole" titulo="So Many Stars">/home/musicam/ogg/004214500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:48:52" duracion="404" categ="0" interprete="Aqua Bassino" titulo="A Mellow Key">/home/musicam/ogg/002482600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:55:36" duracion="187" categ="0" interprete="Cibo Matto" titulo="Stone">/home/musicam/ogg/017329300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 00:58:43" duracion="217" categ="0" interprete="Coastine / Madelin Zero" titulo="Alone With You">/home/musicam/ogg/013219000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:02:20" duracion="186" categ="0" interprete="Madeleine Peyroux" titulo="Don't Wait Too Long">/home/musicam/ogg/008385900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:05:27" duracion="221" categ="0" interprete="Pat Appleton" titulo="Ageless">/home/musicam/ogg/014049100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:09:09" duracion="304" categ="0" interprete="Roy Ayers / Ursula Rucker" titulo="Rise">/home/musicam/ogg/013754200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:14:13" duracion="268" categ="0" interprete="Patricia Kaas" titulo="If You Go Away">/home/musicam/ogg/003957200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:18:42" duracion="307" categ="0" interprete="Climatic" titulo="Che Cos'e">/home/musicam/ogg/012466900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:23:50" duracion="220" categ="0" interprete="Alex De Gomera" titulo="Splende">/home/musicam/ogg/004197400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:27:30" duracion="199" categ="0" interprete="Bitter:Sweet" titulo="The Mating Game">/home/musicam/ogg/013155300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:30:49" duracion="177" categ="0" interprete="Ben Onono" titulo="Small World">/home/musicam/ogg/014903200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:33:47" duracion="290" categ="0" interprete="Orion" titulo="Sunset At Cafe Del Mar">/home/musicam/ogg/003126900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:38:38" duracion="234" categ="0" interprete="Angie Stone" titulo="Come Home (Live With Me)">/home/musicam/ogg/009313300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:42:32" duracion="202" categ="0" interprete="Till Brönner" titulo="Your Way To Say Goodbye">/home/musicam/ogg/008263600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:45:55" duracion="198" categ="0" interprete="Hooverphonic" titulo="One">/home/musicam/ogg/004322300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:49:14" duracion="217" categ="0" interprete="Rox" titulo="Do As I Say">/home/musicam/ogg/014044800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:52:51" duracion="234" categ="0" interprete="Supreme Beings Of Leisure" titulo="Never The Shame">/home/musicam/ogg/002617500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 01:56:46" duracion="316" categ="0" interprete="Brenda Boykin" titulo="Separation Serenade">/home/musicam/ogg/009420300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:02:02" duracion="198" categ="0" interprete="Maria Bethania" titulo="Anos Dourados">/home/musicam/ogg/017676100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:05:21" duracion="309" categ="0" interprete="Afterlife" titulo="Still">/home/musicam/ogg/004306000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:10:30" duracion="253" categ="0" interprete="Maxwell" titulo="Sumthin' Sumthin'">/home/musicam/ogg/010193700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:14:44" duracion="285" categ="0" interprete="Monique Bon" titulo="La Musique">/home/musicam/ogg/014747900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:19:29" duracion="373" categ="0" interprete="Nitin Sawhney" titulo="Homelands">/home/musicam/ogg/003237801.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:25:42" duracion="212" categ="0" interprete="Norah Jones" titulo="Be My Somebody">/home/musicam/ogg/010848000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:29:14" duracion="286" categ="0" interprete="Rasha" titulo="You Bloody Kingdom">/home/musicam/ogg/002606700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:34:01" duracion="289" categ="0" interprete="Nookie / Larry Heard" titulo="Paradise">/home/musicam/ogg/001246900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:38:50" duracion="334" categ="0" interprete="Jon Lucien" titulo="Hello Like Before">/home/musicam/ogg/004997600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:44:25" duracion="248" categ="0" interprete="Duffy" titulo="Serious">/home/musicam/ogg/011303400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:48:33" duracion="232" categ="0" interprete="Canis" titulo="Una De La Noche">/home/musicam/ogg/010880000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:52:25" duracion="258" categ="0" interprete="Brook Sapphire" titulo="My Name In The Sand">/home/musicam/ogg/013281800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 02:56:43" duracion="277" categ="0" interprete="Azymuth" titulo="Linha Do Horizonte">/home/musicam/ogg/003891200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:01:21" duracion="276" categ="0" interprete="Bebo Best / Luma Lourenço / The Super Lounge Orchestra" titulo="That's The Way (I Like It)">/home/musicam/ogg/015145400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:05:57" duracion="199" categ="0" interprete="Peter Pearson" titulo="A Glint In Your Eyes">/home/musicam/ogg/013282500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:09:16" duracion="424" categ="0" interprete="Javier Esteve" titulo="Rainbow Over The Black &amp; White">/home/musicam/ogg/012949200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:16:21" duracion="231" categ="0" interprete="Seal" titulo="A Change Is Gonna Come">/home/musicam/ogg/011737500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:20:13" duracion="198" categ="0" interprete="Abraham" titulo="Magpie">/home/musicam/ogg/004966100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:23:31" duracion="229" categ="0" interprete="Boney James / Faith Evans" titulo="Gonna Get It">/home/musicam/ogg/010805500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:27:20" duracion="238" categ="0" interprete="David Forest / Marissa B" titulo="In My Place">/home/musicam/ogg/014391900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:31:19" duracion="260" categ="0" interprete="Anastacia" titulo="I Ask Of You">/home/musicam/ogg/018291800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:35:40" duracion="374" categ="0" interprete="Alexsandro Da Silva" titulo="Possible Dreams">/home/musicam/ogg/010668100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:41:55" duracion="302" categ="0" interprete="Bluezeum" titulo="Every Day And Every Minute">/home/musicam/ogg/003801400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:46:57" duracion="330" categ="0" interprete="Paul Hardcastle" titulo="Don't You Know">/home/musicam/ogg/012257600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:52:28" duracion="279" categ="0" interprete="Mozez" titulo="Troubled Mind">/home/musicam/ogg/011709800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 03:57:07" duracion="299" categ="0" interprete="S-Tone Inc" titulo="Bahia Mon Amour Medley With Eu Vim Da Bahia">/home/musicam/ogg/004018100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:02:07" duracion="200" categ="0" interprete="Jazzamor" titulo="Love Track">/home/musicam/ogg/012376900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:05:28" duracion="198" categ="0" interprete="Amy Winehouse" titulo="Take The Box">/home/musicam/ogg/004799100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:08:46" duracion="248" categ="0" interprete="Astrud Carvalho" titulo="Over The Rainbow">/home/musicam/ogg/011682300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:12:55" duracion="218" categ="0" interprete="Brenda Boykin" titulo="Don't Take My Love Away">/home/musicam/ogg/014348100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:16:34" duracion="279" categ="0" interprete="Stryke Presents The Azul Project" titulo="Ain't No Sunshine">/home/musicam/ogg/003287600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:21:13" duracion="191" categ="0" interprete="Cafe Chill Out Music After Dark" titulo="Buddha Lounge (Bar Music)">/home/musicam/ogg/013798500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:24:25" duracion="314" categ="0" interprete="De-Phazz" titulo="Between 2 Thieves">/home/musicam/ogg/001278700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:29:39" duracion="249" categ="0" interprete="Supreme Beings Of Leisure" titulo="Freezer">/home/musicam/ogg/015096900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:33:49" duracion="318" categ="0" interprete="Dab" titulo="Pure Joy">/home/musicam/ogg/009444700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:39:07" duracion="231" categ="0" interprete="Lona Mour / Jojo Effect" titulo="You Never Know">/home/musicam/ogg/013537300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:42:59" duracion="226" categ="0" interprete="Slackwax" titulo="Close To My Fire">/home/musicam/ogg/013565800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:46:46" duracion="269" categ="0" interprete="Incognito" titulo="Baby It's Alright">/home/musicam/ogg/012833900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:51:16" duracion="382" categ="0" interprete="Pfl W / Julia Messenger" titulo="For The Love Of You">/home/musicam/ogg/003617400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 04:57:38" duracion="232" categ="0" interprete="Index" titulo="Vintage">/home/musicam/ogg/004310200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:01:31" duracion="222" categ="0" interprete="Ben Harper / Vanessa Da Mata" titulo="Boa Sorte">/home/musicam/ogg/011537900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:05:13" duracion="247" categ="0" interprete="Patricia Kaas" titulo="Autumn Leaves">/home/musicam/ogg/003957900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:09:21" duracion="296" categ="0" interprete="Jp-Juice" titulo="Le Soleil">/home/musicam/ogg/014155200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:14:18" duracion="175" categ="0" interprete="Duala" titulo="Tiare">/home/musicam/ogg/004332700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:17:13" duracion="200" categ="0" interprete="Gabrielle" titulo="Every Little Teardrop">/home/musicam/ogg/011127700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:20:33" duracion="239" categ="0" interprete="Cafe Chill Out Music Club" titulo="Manreza">/home/musicam/ogg/013868800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:24:33" duracion="323" categ="0" interprete="Dublication / K&amp;D" titulo="I Still Have Not Found">/home/musicam/ogg/012839300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:29:57" duracion="194" categ="0" interprete="Astrud Gilberto / George Michael" titulo="Desafinado">/home/musicam/ogg/001111100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:33:12" duracion="322" categ="0" interprete="Deep Josh / Lisa Rose" titulo="The Clouds">/home/musicam/ogg/013467800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:38:35" duracion="372" categ="0" interprete="Citrus Sun" titulo="Budapest">/home/musicam/ogg/011821100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:44:47" duracion="249" categ="0" interprete="Donna Gardier" titulo="Home">/home/musicam/ogg/009771700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:48:57" duracion="267" categ="0" interprete="Nekta" titulo="All There">/home/musicam/ogg/015255500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:53:24" duracion="299" categ="0" interprete="Almadrava" titulo="I Don't Wanna Talk About It">/home/musicam/ogg/011287100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 05:58:23" duracion="269" categ="0" interprete="Conya Doss" titulo="Starship">/home/musicam/ogg/012832000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:02:53" duracion="262" categ="0" interprete="Donald Mccollum" titulo="Lost My Kool">/home/musicam/ogg/009771100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:07:15" duracion="238" categ="0" interprete="Seek" titulo="Talk About It">/home/musicam/ogg/010162900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:11:14" duracion="357" categ="0" interprete="King Kooba" titulo="Fooling Myself">/home/musicam/ogg/002956000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:17:12" duracion="296" categ="0" interprete="Wayne Martin / Boozoo Bajou" titulo="Every Hour">/home/musicam/ogg/012502400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:22:08" duracion="206" categ="0" interprete="Rebecca Ferguson" titulo="Glitter And Gold">/home/musicam/ogg/014604900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:25:35" duracion="249" categ="0" interprete="Derail" titulo="Freedom">/home/musicam/ogg/011813400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:29:44" duracion="322" categ="0" interprete="Elcho" titulo="Lazy Summer Days">/home/musicam/ogg/008654700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:35:07" duracion="236" categ="0" interprete="Crystin" titulo="Something Beautiful">/home/musicam/ogg/013470100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:39:03" duracion="216" categ="0" interprete="Clementine" titulo="It's A Shame">/home/musicam/ogg/001689900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:42:39" duracion="237" categ="0" interprete="Hilz" titulo="Where It Hurts">/home/musicam/ogg/013670700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:46:37" duracion="156" categ="0" interprete="Bitter:Sweet" titulo="Take 2 Blue">/home/musicam/ogg/013156200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:49:14" duracion="342" categ="0" interprete="Jeff Bennetts Lounge Experience / Alexandra" titulo="Sympathy">/home/musicam/ogg/009446200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:54:57" duracion="222" categ="0" interprete="Claude Monnet / Monica Nogueira" titulo="Je Suis Venu Te Dire Que Je M' En Vais">/home/musicam/ogg/008296900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 06:58:39" duracion="228" categ="0" interprete="Blank &amp; Jones" titulo="Mind Of The Wonderful">/home/musicam/ogg/010529400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:02:27" duracion="220" categ="0" interprete="Eliane Elias" titulo="Photograph">/home/musicam/ogg/008248500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:06:08" duracion="270" categ="0" interprete="Michael E" titulo="Can See The Light In Her Eyes">/home/musicam/ogg/015177600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:10:38" duracion="162" categ="0" interprete="David Sanz / Berk And The Virtual Band" titulo="Little Max">/home/musicam/ogg/014532300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:13:21" duracion="341" categ="0" interprete="Hirudo" titulo="Where Are You Now">/home/musicam/ogg/014747400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:19:03" duracion="258" categ="0" interprete="Jocelyn Brown / Hardage" titulo="Beautiful Day">/home/musicam/ogg/010458900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:23:22" duracion="242" categ="0" interprete="Jazzamor" titulo="Childhood Dreams">/home/musicam/ogg/005050200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:27:24" duracion="279" categ="0" interprete="Supreme Beings Of Leisure" titulo="The Light">/home/musicam/ogg/012457600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:32:04" duracion="177" categ="0" interprete="Sara Pi" titulo="Burning">/home/musicam/ogg/015053700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:35:01" duracion="228" categ="0" interprete="Patricia Kaas" titulo="The Summer Knows">/home/musicam/ogg/003957500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:38:49" duracion="232" categ="0" interprete="Gelka" titulo="Soon">/home/musicam/ogg/014791100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:42:42" duracion="272" categ="0" interprete="Cassandra Wilson" titulo="Fragile">/home/musicam/ogg/005004600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:47:14" duracion="375" categ="0" interprete="Briza" titulo="Reflections On The Highway">/home/musicam/ogg/009847600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:53:30" duracion="183" categ="0" interprete="De-Phazz" titulo="Atomic Cocktail">/home/musicam/ogg/004022500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 07:56:33" duracion="295" categ="0" interprete="Cecile Bredie" titulo="Imagine Toi">/home/musicam/ogg/014099100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:01:29" duracion="316" categ="0" interprete="Max Melvin" titulo="All Fades">/home/musicam/ogg/004334200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:06:45" duracion="249" categ="0" interprete="Jojo Effect" titulo="Somewhere In Between">/home/musicam/ogg/013538000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:10:54" duracion="302" categ="0" interprete="Almadrava" titulo="Land Of Eternal Sunset">/home/musicam/ogg/011285800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:15:57" duracion="213" categ="0" interprete="Pat Appleton" titulo="Smart Traveller">/home/musicam/ogg/014049400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:19:30" duracion="387" categ="0" interprete="The Rurals" titulo="Mission 1">/home/musicam/ogg/003238600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:25:58" duracion="252" categ="0" interprete="Evening Twilite" titulo="All I Need">/home/musicam/ogg/015040800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:30:11" duracion="354" categ="0" interprete="Mo Horizons" titulo="Foto Viva">/home/musicam/ogg/002994400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:36:06" duracion="195" categ="0" interprete="Norah Jones" titulo="Sunrise">/home/musicam/ogg/004612800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:39:21" duracion="222" categ="0" interprete="Clementine" titulo="J'etourne Chez Moi">/home/musicam/ogg/018370900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:43:04" duracion="301" categ="0" interprete="Fudge X / Jackie Bredie" titulo="All The Earth / Psalm 19">/home/musicam/ogg/015100900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:48:06" duracion="266" categ="0" interprete="Nekta" titulo="Who's Sorry Now">/home/musicam/ogg/015255300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:52:33" duracion="258" categ="0" interprete="Bitter:Sweet" titulo="Bittersweet Faith">/home/musicam/ogg/013155600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 08:56:52" duracion="271" categ="0" interprete="Club des Belugas" titulo="Wild Is My Love">/home/musicam/ogg/012637500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:01:23" duracion="214" categ="0" interprete="Lucie Silvas" titulo="Last Man Standing">/home/musicam/ogg/008781300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:04:57" duracion="227" categ="0" interprete="Gare Du Nord" titulo="Come To The Ball">/home/musicam/ogg/012634300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:08:45" duracion="239" categ="0" interprete="Sweetback" titulo="You Will Rise">/home/musicam/ogg/000241200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:12:44" duracion="261" categ="0" interprete="Saint Etienne" titulo="How We Used To Live">/home/musicam/ogg/002934500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:17:06" duracion="210" categ="0" interprete="Berk And The Virtual Band" titulo="Together Forever">/home/musicam/ogg/013024900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:20:36" duracion="391" categ="0" interprete="Lisa Shaw" titulo="If I Could">/home/musicam/ogg/003540500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:27:08" duracion="272" categ="0" interprete="Chante Moore" titulo="Wey U">/home/musicam/ogg/006129800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:31:41" duracion="275" categ="0" interprete="Beate S. Lech" titulo="Game">/home/musicam/ogg/008316800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:36:17" duracion="361" categ="0" interprete="Prodoxo" titulo="Bailanduna">/home/musicam/ogg/008477300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:42:18" duracion="325" categ="0" interprete="Till Brönner" titulo="When Your Lover Has Gone">/home/musicam/ogg/008263900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:47:43" duracion="295" categ="0" interprete="Jazzamor" titulo="A Piece Of My Heart">/home/musicam/ogg/004935100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:52:39" duracion="224" categ="0" interprete="Sofie Loup" titulo="Love Bass">/home/musicam/ogg/019983900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:56:23" duracion="190" categ="0" interprete="Robbie Williams" titulo="Swing Supreme">/home/musicam/ogg/015151200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 09:59:34" duracion="197" categ="0" interprete="De-Phazz" titulo="Walk With Love">/home/musicam/ogg/012802800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:02:51" duracion="354" categ="0" interprete="Charles Webster" titulo="Ready">/home/musicam/ogg/004392600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:08:46" duracion="208" categ="0" interprete="Anne Schnell / Jojo Effect" titulo="Thought's Tango">/home/musicam/ogg/013538100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:12:14" duracion="242" categ="0" interprete="Francesca M." titulo="Montreux Jazz">/home/musicam/ogg/008656100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:16:17" duracion="133" categ="0" interprete="Lisa Bassenge &amp; The J-Chresta" titulo="Perhaps, Perhaps, Perhaps">/home/musicam/ogg/012931600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:18:30" duracion="267" categ="0" interprete="Drops Of Honey" titulo="Pura Vida">/home/musicam/ogg/014747200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:22:58" duracion="367" categ="0" interprete="Briza" titulo="Splashdown">/home/musicam/ogg/009847800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:29:05" duracion="283" categ="0" interprete="A Reminiscent Drive" titulo="Tears Along The Way">/home/musicam/ogg/003352900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:33:49" duracion="291" categ="0" interprete="Boney James / Dwele" titulo="In The Rain">/home/musicam/ogg/010805400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:38:40" duracion="222" categ="0" interprete="Dianne Reeves" titulo="Testify">/home/musicam/ogg/001372600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:42:22" duracion="293" categ="0" interprete="Hillton Fm" titulo="Cold As December">/home/musicam/ogg/012087400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:47:16" duracion="234" categ="0" interprete="Pat Appleton" titulo="Fly To Sunshine">/home/musicam/ogg/011181000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:51:11" duracion="153" categ="0" interprete="Lana Del Rey" titulo="Blue Velvet">/home/musicam/ogg/014198400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:53:44" duracion="259" categ="0" interprete="Break Reform" titulo="All In Good Time">/home/musicam/ogg/019490700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 10:58:04" duracion="203" categ="0" interprete="Supreme Beings Of Leisure" titulo="This World">/home/musicam/ogg/012457700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:01:27" duracion="271" categ="0" interprete="Brian Mcknight" titulo="The Way Love Goes">/home/musicam/ogg/004547600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:05:59" duracion="265" categ="0" interprete="Alex Latimore" titulo="A Million Ways">/home/musicam/ogg/012833500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:10:24" duracion="305" categ="0" interprete="La Caina" titulo="Head In The Clouds">/home/musicam/ogg/012193900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:15:30" duracion="200" categ="0" interprete="Beverley Knight" titulo="Every Step">/home/musicam/ogg/012316800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:18:51" duracion="197" categ="0" interprete="Berk And The Virtual Band" titulo="Rhythm Is A Dancer">/home/musicam/ogg/010108700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:22:09" duracion="313" categ="0" interprete="Cassandra Wilson" titulo="It Woul Be So Easy">/home/musicam/ogg/009199900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:27:23" duracion="178" categ="0" interprete="Bitter:Sweet" titulo="Salty Air">/home/musicam/ogg/013156100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:30:22" duracion="239" categ="0" interprete="Almadrava" titulo="By You">/home/musicam/ogg/012097500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:34:21" duracion="251" categ="0" interprete="Lazy" titulo="Time">/home/musicam/ogg/010528400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:38:32" duracion="292" categ="0" interprete="Jaffa" titulo="Be Nude, Baby">/home/musicam/ogg/003279100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:43:25" duracion="208" categ="0" interprete="Estelle" titulo="Love The Way We Used To">/home/musicam/ogg/013892800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:46:54" duracion="215" categ="0" interprete="Alex Gopher" titulo="The Child">/home/musicam/ogg/002932400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:50:30" duracion="262" categ="0" interprete="Samantha James" titulo="Right Now">/home/musicam/ogg/011596900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 11:54:53" duracion="309" categ="0" interprete="Camiel" titulo="Can I Change You Mind">/home/musicam/ogg/010603300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:00:02" duracion="245" categ="0" interprete="Jazzamor" titulo="Lovin' You">/home/musicam/ogg/004935600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:04:07" duracion="180" categ="0" interprete="Brazilian Lounge Project" titulo="Call Me">/home/musicam/ogg/014571000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:07:08" duracion="336" categ="0" interprete="Juliana Aquino" titulo="I Will Survive">/home/musicam/ogg/012388600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:12:44" duracion="315" categ="0" interprete="Cafe Safado / Luna A. Whibble" titulo="Ze Aio">/home/musicam/ogg/011648900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:18:00" duracion="315" categ="0" interprete="Barriere" titulo="You'll Be Mine">/home/musicam/ogg/012465700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:23:15" duracion="224" categ="0" interprete="Jojo Effect" titulo="I Should Not I Would Not">/home/musicam/ogg/013249100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:26:59" duracion="233" categ="0" interprete="Mikelyn Roderick" titulo="Bless You">/home/musicam/ogg/011465300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:30:53" duracion="329" categ="0" interprete="Asheni" titulo="Cry Me Tears">/home/musicam/ogg/013504600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:36:23" duracion="339" categ="0" interprete="Victor Davies / Landslide" titulo="Tumbling">/home/musicam/ogg/003387300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:42:03" duracion="267" categ="0" interprete="Airfix" titulo="Stories">/home/musicam/ogg/003125500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:46:31" duracion="282" categ="0" interprete="Boney James" titulo="Love Song">/home/musicam/ogg/010805700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:51:13" duracion="250" categ="0" interprete="Clementine" titulo="Marizinha">/home/musicam/ogg/001690200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:55:23" duracion="233" categ="0" interprete="Duffy" titulo="Don't Forsake Me">/home/musicam/ogg/012987400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 12:59:17" duracion="287" categ="0" interprete="Nardis" titulo="Sunrise">/home/musicam/ogg/011329500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:04:04" duracion="218" categ="0" interprete="Yukijobo" titulo="Supernova Sky">/home/musicam/ogg/009413500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:07:43" duracion="331" categ="0" interprete="Break Reform" titulo="Don't Break This">/home/musicam/ogg/019491000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:13:14" duracion="243" categ="0" interprete="Matt Bianco" titulo="Angel Divine">/home/musicam/ogg/012287800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:17:17" duracion="259" categ="0" interprete="Club des Belugas" titulo="Zoo Zizaro">/home/musicam/ogg/012638400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:21:37" duracion="231" categ="0" interprete="Tape Five" titulo="Cocktail D'amour">/home/musicam/ogg/012636700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:25:28" duracion="203" categ="0" interprete="Berk And The Virtual Band" titulo="You Are My Heart Your My Soul">/home/musicam/ogg/013024500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:28:52" duracion="291" categ="0" interprete="Cataldo" titulo="Only You">/home/musicam/ogg/011877900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:33:44" duracion="323" categ="0" interprete="4 Hero" titulo="Wishful Thinking">/home/musicam/ogg/017952300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:39:07" duracion="331" categ="0" interprete="Almadrava" titulo="Run To You">/home/musicam/ogg/011286400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:44:39" duracion="284" categ="0" interprete="Les Hommes" titulo="Touched By The Hand Of Tenorio">/home/musicam/ogg/003387100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:49:24" duracion="165" categ="0" interprete="Antony And The Johnsons" titulo="Kiss My Name">/home/musicam/ogg/011882200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:52:09" duracion="196" categ="0" interprete="Cassandra Wilson" titulo="What Is It">/home/musicam/ogg/005005200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:55:26" duracion="205" categ="0" interprete="Marlene / Sao Vicente" titulo="I Shot The Sheriff">/home/musicam/ogg/015007300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 13:58:51" duracion="185" categ="0" interprete="Hil St Soul" titulo="Until You Come Back To Me">/home/musicam/ogg/011821800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:01:57" duracion="213" categ="0" interprete="Aquarama Music" titulo="Strange Ways">/home/musicam/ogg/012466600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:05:31" duracion="230" categ="0" interprete="Late Night Alumni" titulo="Beautiful">/home/musicam/ogg/004618900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:09:21" duracion="215" categ="0" interprete="De-Phazz" titulo="Nightmare">/home/musicam/ogg/004022900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:12:57" duracion="309" categ="0" interprete="Rue du Soleil" titulo="In My Heart">/home/musicam/ogg/004629500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:18:07" duracion="224" categ="0" interprete="Jerrell" titulo="Don't Stop">/home/musicam/ogg/010102000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:21:52" duracion="296" categ="0" interprete="Bossa Nostra / Bruna Loppez" titulo="Inverno">/home/musicam/ogg/004202700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:26:48" duracion="233" categ="0" interprete="Jojo Effect" titulo="Mambo Tonight">/home/musicam/ogg/013250000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:30:41" duracion="253" categ="0" interprete="Belle Montenegro / D-Influence" titulo="All I Need">/home/musicam/ogg/010742000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:34:55" duracion="246" categ="0" interprete="Estelle" titulo="Thank You">/home/musicam/ogg/013893200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:39:02" duracion="272" categ="0" interprete="Basia" titulo="Astrud">/home/musicam/ogg/005182400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:43:34" duracion="159" categ="0" interprete="Dusty Springfield" titulo="The Look Of Love">/home/musicam/ogg/001500100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:46:14" duracion="263" categ="0" interprete="Gelka" titulo="Find The Peace">/home/musicam/ogg/014790900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:50:37" duracion="256" categ="0" interprete="Boney James / Esthero" titulo="Shine">/home/musicam/ogg/010805000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:54:54" duracion="215" categ="0" interprete="Macy Gray" titulo="She Ain't Right For You">/home/musicam/ogg/004232100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 14:58:30" duracion="270" categ="0" interprete="Diana Krall / Los Angeles Session Orquestra" titulo="'S Wonderful">/home/musicam/ogg/003105600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:03:01" duracion="195" categ="0" interprete="Aya" titulo="Looking For The Sun">/home/musicam/ogg/010884400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:06:16" duracion="292" categ="0" interprete="The Space Brothers" titulo="Your Place In The World">/home/musicam/ogg/002201500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:11:09" duracion="199" categ="0" interprete="Ambrozia" titulo="It's U">/home/musicam/ogg/004479400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:14:28" duracion="310" categ="0" interprete="Underwolves" titulo="Bird Song">/home/musicam/ogg/002203900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:19:39" duracion="265" categ="0" interprete="Brueback" titulo="Inside The Flame">/home/musicam/ogg/014908600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:24:05" duracion="227" categ="0" interprete="Jazzamor" titulo="Nuit Magique">/home/musicam/ogg/010601500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:27:52" duracion="227" categ="0" interprete="Anita Baker" titulo="Giving You The Best That I Got">/home/musicam/ogg/017193400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:31:40" duracion="312" categ="0" interprete="Aimee Sol" titulo="Leave Your Body">/home/musicam/ogg/014830900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:36:52" duracion="333" categ="0" interprete="Fantastic Plastic Machine" titulo="Steppin' Out">/home/musicam/ogg/002088400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:42:26" duracion="310" categ="0" interprete="Hillton Fm" titulo="Anything With You">/home/musicam/ogg/012087000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:47:36" duracion="247" categ="0" interprete="Fridrick Karlsson" titulo="Shanhan Do">/home/musicam/ogg/004996200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:51:44" duracion="215" categ="0" interprete="Berk And The Virtual Band" titulo="Y.M.C.A.">/home/musicam/ogg/011006400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 15:55:20" duracion="364" categ="0" interprete="Afterlife" titulo="Makes Me Feel">/home/musicam/ogg/003203400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:01:25" duracion="271" categ="0" interprete="Tesz Millan / Twentyeight" titulo="Into You">/home/musicam/ogg/013029300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:05:57" duracion="280" categ="0" interprete="Robin Thicke" titulo="For The Rest Of My Life">/home/musicam/ogg/014973900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:10:38" duracion="159" categ="0" interprete="Anakelly" titulo="Under My Thumb">/home/musicam/ogg/012330600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:13:17" duracion="266" categ="0" interprete="Akmuisque" titulo="Vamos Danca">/home/musicam/ogg/002995201.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:17:44" duracion="206" categ="0" interprete="Full Intention / Shena" titulo="I Ll Be Waiting">/home/musicam/ogg/003609100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:21:11" duracion="266" categ="0" interprete="Barefoot" titulo="White Lines">/home/musicam/ogg/008662700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:25:38" duracion="386" categ="0" interprete="Beat Access / De Melero" titulo="Land Of Hunger">/home/musicam/ogg/008314800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:32:04" duracion="224" categ="0" interprete="Pink Martini" titulo="Clementine">/home/musicam/ogg/008362000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:35:48" duracion="240" categ="0" interprete="Hil St Soul" titulo="Paradise">/home/musicam/ogg/011820300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:39:49" duracion="284" categ="0" interprete="Jojo Effect" titulo="The Swing Ding Song">/home/musicam/ogg/013249300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:44:33" duracion="271" categ="0" interprete="Burgtof And Saval" titulo="I Still Have Time">/home/musicam/ogg/019908900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:49:05" duracion="260" categ="0" interprete="Brandy / Ray J" titulo="Another Day In Paradise">/home/musicam/ogg/009877400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:53:25" duracion="293" categ="0" interprete="India.Arie" titulo="Strength Courage And Wisdom">/home/musicam/ogg/003217600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 16:58:19" duracion="359" categ="0" interprete="Beady Belle" titulo="Big Balloon">/home/musicam/ogg/004441400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:04:18" duracion="295" categ="0" interprete="Martin Solveig" titulo="Dry">/home/musicam/ogg/010556400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:09:14" duracion="230" categ="0" interprete="Cassiopee" titulo="The Promise">/home/musicam/ogg/003849400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:13:05" duracion="248" categ="0" interprete="Ikon" titulo="Breaking">/home/musicam/ogg/014266500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:17:13" duracion="215" categ="0" interprete="Aya" titulo="I'll Never Give In">/home/musicam/ogg/010885000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:20:49" duracion="183" categ="0" interprete="Veronica M" titulo="That's The Way (I Like It)">/home/musicam/ogg/014380400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:23:53" duracion="181" categ="0" interprete="Elis Regina / Toots Thielemans" titulo="Aquarela Do Brasil">/home/musicam/ogg/017990700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:26:55" duracion="162" categ="0" interprete="Karen Souza" titulo="Every Breath You Take">/home/musicam/ogg/012330400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:29:37" duracion="227" categ="0" interprete="Diana Krall" titulo="So Nice">/home/musicam/ogg/012158200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:33:25" duracion="214" categ="0" interprete="Alphawezen" titulo="Out Of Sight">/home/musicam/ogg/013874000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:36:59" duracion="204" categ="0" interprete="Kylie Minogue" titulo="Flower">/home/musicam/ogg/014208400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:40:24" duracion="284" categ="0" interprete="Wasaby Ink" titulo="All My Love">/home/musicam/ogg/012951300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:45:08" duracion="253" categ="0" interprete="Roberto Sol" titulo="Love Finds You">/home/musicam/ogg/014601100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:49:22" duracion="286" categ="0" interprete="Polished Chrome" titulo="I Wanna Get Close To You">/home/musicam/ogg/013944100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:54:09" duracion="192" categ="0" interprete="Benjamin Diamond / Octet / Suzanne Thoma" titulo="Sneakers &amp; Thongs">/home/musicam/ogg/008325100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 17:57:22" duracion="241" categ="0" interprete="Ensoul" titulo="Perfect Days">/home/musicam/ogg/011419500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:01:24" duracion="328" categ="0" interprete="Satin Dub Soul" titulo="Warm Summer">/home/musicam/ogg/014748900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:06:53" duracion="322" categ="0" interprete="Koru" titulo="Hear Me">/home/musicam/ogg/012256300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:12:16" duracion="168" categ="0" interprete="Chris Botti / Shawn Colvin" titulo="All Would Envy">/home/musicam/ogg/003516400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:15:04" duracion="310" categ="0" interprete="Dope Jones" titulo="Latecomer">/home/musicam/ogg/002996900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:20:15" duracion="270" categ="0" interprete="Pat Appleton" titulo="Rely">/home/musicam/ogg/014049900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:24:45" duracion="235" categ="0" interprete="Crystin / Thomas Kessler" titulo="Share Some Light">/home/musicam/ogg/015179900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:28:40" duracion="265" categ="0" interprete="Brenda Boykin" titulo="I'll Be With You">/home/musicam/ogg/014348300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:33:06" duracion="219" categ="0" interprete="Erykah Badu / Macy Gray" titulo="Sweet Baby">/home/musicam/ogg/002904200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:36:45" duracion="270" categ="0" interprete="Geoffrey Williams" titulo="Superfly">/home/musicam/ogg/015028100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:41:16" duracion="244" categ="0" interprete="Aim" titulo="Another Summer">/home/musicam/ogg/002955200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:45:21" duracion="225" categ="0" interprete="Alicia Keys" titulo="If I Ain't Got You">/home/musicam/ogg/019461100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:49:06" duracion="308" categ="0" interprete="Stefano Carpi" titulo="After The Sea">/home/musicam/ogg/013467900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:54:15" duracion="289" categ="0" interprete="Lena Fiagbe / Wasis Diop" titulo="No Sant">/home/musicam/ogg/001500800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 18:59:05" duracion="231" categ="0" interprete="Shannon Labrie" titulo="Gettin' Tired">/home/musicam/ogg/014586900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:02:57" duracion="321" categ="0" interprete="Victor Haynes" titulo="Music And Love">/home/musicam/ogg/014191100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:08:18" duracion="247" categ="0" interprete="Club des Belugas" titulo="Is This Real">/home/musicam/ogg/014439800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:12:25" duracion="314" categ="0" interprete="Susannah Mccorkle" titulo="Haunted Heart">/home/musicam/ogg/018356900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:17:40" duracion="281" categ="0" interprete="Hil St Soul" titulo="Concrete Jungle">/home/musicam/ogg/001886700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:22:22" duracion="313" categ="0" interprete="Fayoum Blue" titulo="Universal Love">/home/musicam/ogg/013283500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:27:35" duracion="272" categ="0" interprete="Alkemx" titulo="Time To Lounge">/home/musicam/ogg/004153800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:32:08" duracion="286" categ="0" interprete="L.a. Thomas" titulo="Flow">/home/musicam/ogg/004309900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:36:54" duracion="241" categ="0" interprete="Tereza" titulo="Everybody S Got Learn Sometime">/home/musicam/ogg/004846500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:40:55" duracion="237" categ="0" interprete="Beady Belle" titulo="Bella">/home/musicam/ogg/004458600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:44:52" duracion="313" categ="0" interprete="Anita Baker" titulo="Only For A While">/home/musicam/ogg/005990700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:50:06" duracion="217" categ="0" interprete="Jazzamor" titulo="Mar De Paixao">/home/musicam/ogg/005050900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:53:43" duracion="255" categ="0" interprete="Ive Mendes" titulo="Night Night">/home/musicam/ogg/004917900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 19:57:58" duracion="171" categ="0" interprete="Caetano Veloso" titulo="Minha Voz, Minha Vida">/home/musicam/ogg/001821300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:00:50" duracion="270" categ="0" interprete="Koop" titulo="Koop Island Blues">/home/musicam/ogg/011369300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:05:21" duracion="332" categ="0" interprete="Deep Josh / Jose Rodriguez" titulo="Strangers In The Night">/home/musicam/ogg/012948800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:10:53" duracion="233" categ="0" interprete="The Cooltrane Quartet" titulo="Holding Back The Years">/home/musicam/ogg/012329900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:14:46" duracion="353" categ="0" interprete="Orgatronics" titulo="Tren Lento A Juliaca">/home/musicam/ogg/011421000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:20:40" duracion="269" categ="0" interprete="Berk And The Virtual Band" titulo="My Baby Just Cares For Me">/home/musicam/ogg/013024400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:25:10" duracion="359" categ="0" interprete="Gabi Newman / Nikol" titulo="Try To Remember">/home/musicam/ogg/005075600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:31:09" duracion="431" categ="0" interprete="Levitation" titulo="More Than Ever People">/home/musicam/ogg/001246700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:38:21" duracion="279" categ="0" interprete="De-Phazz" titulo="Cut The Jazz">/home/musicam/ogg/001279000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:43:00" duracion="258" categ="0" interprete="Tape Five" titulo="Who's Talking The Blame">/home/musicam/ogg/012636900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:47:18" duracion="288" categ="0" interprete="Trinah" titulo="Junes">/home/musicam/ogg/013144800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:52:07" duracion="208" categ="0" interprete="Maria Creuza" titulo="Dama Do Casino">/home/musicam/ogg/002255800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:55:36" duracion="258" categ="0" interprete="Alexsandro Da Silva" titulo="My Celebration">/home/musicam/ogg/011904500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 20:59:54" duracion="362" categ="0" interprete="Leslie Round" titulo="Calling Back">/home/musicam/ogg/008476500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:05:57" duracion="178" categ="0" interprete="Allen Stone" titulo="Contact High">/home/musicam/ogg/015010600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:08:55" duracion="153" categ="0" interprete="Zee Avi" titulo="Bitter Heart">/home/musicam/ogg/013878000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:11:28" duracion="325" categ="0" interprete="Christoph Spendel Project / Lisa Shaw" titulo="Sunny">/home/musicam/ogg/012415900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:16:54" duracion="340" categ="0" interprete="Maxwell" titulo="Ascension">/home/musicam/ogg/010193800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:22:34" duracion="217" categ="0" interprete="Matt Bianco" titulo="Say The Words">/home/musicam/ogg/008265200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:26:12" duracion="280" categ="0" interprete="Chante Moore" titulo="Love The Woman">/home/musicam/ogg/014531200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:30:52" duracion="232" categ="0" interprete="Patty Ascher" titulo="I Say A Little Prayer">/home/musicam/ogg/014891000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:34:45" duracion="221" categ="0" interprete="Michael Bublé" titulo="Home">/home/musicam/ogg/008446701.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:38:26" duracion="232" categ="0" interprete="Avani" titulo="The Waiting Is Over">/home/musicam/ogg/012832600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:42:18" duracion="298" categ="0" interprete="Digital Analog Band" titulo="I Promise">/home/musicam/ogg/012950600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:47:17" duracion="270" categ="0" interprete="Sinclair" titulo="Stay With Me Tonight">/home/musicam/ogg/012835400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:51:47" duracion="270" categ="0" interprete="Gelka" titulo="Under My Star">/home/musicam/ogg/011419900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:56:18" duracion="134" categ="0" interprete="Brazilian Lounge Project" titulo="The Girl From Ipanema">/home/musicam/ogg/014570000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 21:58:32" duracion="198" categ="0" interprete="Imani / Hidetake Takayama" titulo="Doop Da Doo">/home/musicam/ogg/015351900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:01:51" duracion="360" categ="0" interprete="Ive Mendes" titulo="Afternoon">/home/musicam/ogg/009720600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:07:51" duracion="271" categ="0" interprete="Brenda Boykin" titulo="He Does Not Know">/home/musicam/ogg/013253600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:12:23" duracion="264" categ="0" interprete="Cool Blu" titulo="Aqua Libra">/home/musicam/ogg/003000600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:16:47" duracion="213" categ="0" interprete="Airmate / Izzi Dunn" titulo="Let It Go">/home/musicam/ogg/013873500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:20:21" duracion="168" categ="0" interprete="Fantastic Everlasting Gobstopper" titulo="I Am A Kitten">/home/musicam/ogg/000186400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:23:09" duracion="232" categ="0" interprete="Martha Redbone" titulo="Children Of Love">/home/musicam/ogg/012832300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:27:01" duracion="251" categ="0" interprete="Melounge" titulo="Fall">/home/musicam/ogg/011329100.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:31:13" duracion="233" categ="0" interprete="Lissa Bassenge" titulo="All I Need">/home/musicam/ogg/019884600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:35:06" duracion="331" categ="0" interprete="Gerrit Van Der Meer" titulo="A Suitcase Of Light">/home/musicam/ogg/011538200.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:40:37" duracion="192" categ="0" interprete="Chillout Lounge Summertime Cafe" titulo="Mallorca Moods">/home/musicam/ogg/014792500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:43:50" duracion="250" categ="0" interprete="Berk And The Virtual Band" titulo="Suburbia">/home/musicam/ogg/011006000.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:48:01" duracion="275" categ="0" interprete="Alex Latimore" titulo="Lullabye">/home/musicam/ogg/012835700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:52:36" duracion="257" categ="0" interprete="Eventide / Robina" titulo="And I">/home/musicam/ogg/008495300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 22:56:54" duracion="217" categ="0" interprete="Club des Belugas" titulo="Desperately Trying">/home/musicam/ogg/014438900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:00:31" duracion="226" categ="0" interprete="Street Life Original" titulo="A Sidewalk Story">/home/musicam/ogg/003387400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:04:18" duracion="392" categ="0" interprete="Chris Standring" titulo="The Beautiful Woman Of Scant Virtue">/home/musicam/ogg/003283500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:10:51" duracion="315" categ="0" interprete="Yuliet Topaz" titulo="A Miracle">/home/musicam/ogg/012255500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:16:07" duracion="318" categ="0" interprete="Caetano Veloso" titulo="Manhata">/home/musicam/ogg/001820600.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:21:26" duracion="249" categ="0" interprete="Sunburn In Cyprus" titulo="A Little Bit">/home/musicam/ogg/012569500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:25:35" duracion="323" categ="0" interprete="Hard Kandy" titulo="Big Sand">/home/musicam/ogg/004619700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:30:59" duracion="155" categ="0" interprete="Alice Russell" titulo="Someday">/home/musicam/ogg/004388400.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:33:34" duracion="311" categ="0" interprete="Florzinho / Ma'deevah / Mathieu" titulo="Miracle Of Love">/home/musicam/ogg/014600800.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:38:45" duracion="280" categ="0" interprete="De-Phazz" titulo="Death By Chocolate">/home/musicam/ogg/002834500.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:43:26" duracion="181" categ="0" interprete="Michael Bublé" titulo="Georgia On My Mind">/home/musicam/ogg/012470900.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:46:27" duracion="209" categ="0" interprete="Jazzamor" titulo="Sunday">/home/musicam/ogg/004935300.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:49:57" duracion="380" categ="0" interprete="4 Tunes" titulo="Frequently Devine">/home/musicam/ogg/011454700.ogg</CANCION>
-    <CANCION fecha="25/02/2015 23:56:18" duracion="251" categ="0" interprete="Banda Do Sul / Natascha" titulo="Sweet Child O Mine">/home/musicam/ogg/010887100.ogg</CANCION>
+  <PLAYLIST canal="79" nombrecanal="SPRINGFIELD" web="0">
+    <CANCION fecha="04/03/2015 00:00:00" duracion="150" categ="0" interprete="The Coral" titulo="In The Morning">/home/musicam/ogg/008526100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:02:30" duracion="161" categ="0" interprete="Youngblood Hawke" titulo="Sleepless Streets">/home/musicam/ogg/015222800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:05:12" duracion="224" categ="0" interprete="Say Hi" titulo="Dots On Maps">/home/musicam/ogg/013534500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:08:56" duracion="204" categ="0" interprete="The New Pornographers" titulo="Challengers">/home/musicam/ogg/010846700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:12:20" duracion="154" categ="0" interprete="The Weepies" titulo="How Do You Get High">/home/musicam/ogg/013759000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:14:55" duracion="189" categ="0" interprete="Fanfarlo" titulo="Dig">/home/musicam/ogg/013888700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:18:05" duracion="255" categ="0" interprete="Hurts" titulo="Blood Tears And Gold">/home/musicam/ogg/013077800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:22:20" duracion="221" categ="0" interprete="Steve Miller Band" titulo="Lost In Your Eyes">/home/musicam/ogg/005581201.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:26:01" duracion="305" categ="0" interprete="St. Lucia" titulo="Elevate">/home/musicam/ogg/014952800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:31:07" duracion="207" categ="0" interprete="The Black Keys" titulo="10 Lovers">/home/musicam/ogg/015380000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:34:35" duracion="275" categ="0" interprete="Primal Scream" titulo="Invisible City">/home/musicam/ogg/014955800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:39:11" duracion="300" categ="0" interprete="Friendly Fires" titulo="Hurting">/home/musicam/ogg/013616900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:44:11" duracion="213" categ="0" interprete="Fountains of Wayne" titulo="Traffic And Weather">/home/musicam/ogg/010322700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:47:44" duracion="292" categ="0" interprete="Simon Lord / Plastic Plates" titulo="Things I Didn't Now Loved">/home/musicam/ogg/014224700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:52:37" duracion="166" categ="0" interprete="Sticky Fingers" titulo="Caress Your Soul">/home/musicam/ogg/014953700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:55:23" duracion="135" categ="0" interprete="Cat Power" titulo="Could We">/home/musicam/ogg/009016600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 00:57:39" duracion="259" categ="0" interprete="Duran Duran" titulo="Do You Believe In Shame">/home/musicam/ogg/017139600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:01:59" duracion="318" categ="0" interprete="Little Boots" titulo="Satellite">/home/musicam/ogg/014959800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:07:17" duracion="205" categ="0" interprete="Au Revoir Simone" titulo="Somebody Who">/home/musicam/ogg/015163000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:10:42" duracion="299" categ="0" interprete="Chairlift" titulo="Amanaemonesia">/home/musicam/ogg/014400000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:15:42" duracion="184" categ="0" interprete="Keren Ann" titulo="Sugar Mama">/home/musicam/ogg/013344400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:18:46" duracion="223" categ="0" interprete="Sea Wolf" titulo="Black Dirt">/home/musicam/ogg/011342200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:22:30" duracion="272" categ="0" interprete="Frou Frou" titulo="It's Good To Be In Love">/home/musicam/ogg/004265200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:27:02" duracion="215" categ="0" interprete="Death Cab For Cutie" titulo="Your Heart Is An Empty Room">/home/musicam/ogg/008777800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:30:38" duracion="238" categ="0" interprete="Switchfoot" titulo="Saltwater Heart">/home/musicam/ogg/015221200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:34:36" duracion="268" categ="0" interprete="The Postmarks" titulo="All You Ever Wanted">/home/musicam/ogg/012630100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:39:05" duracion="229" categ="0" interprete="Bishop Allen" titulo="Bread Crumbs">/home/musicam/ogg/021018000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:42:54" duracion="228" categ="0" interprete="Neon Trees" titulo="Sleeping With a Friend">/home/musicam/ogg/021005200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:46:43" duracion="154" categ="0" interprete="T. Rex / Marc Bolan" titulo="Celebrate Summer">/home/musicam/ogg/013319400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:49:18" duracion="210" categ="0" interprete="Rac / Tegan and Sara" titulo="Hard To Hold">/home/musicam/ogg/015329300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:52:48" duracion="177" categ="0" interprete="Erlend Øye" titulo="Whistler">/home/musicam/ogg/021270700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:55:46" duracion="232" categ="0" interprete="Rac / Speak" titulo="I Should 'Ve Guessed">/home/musicam/ogg/015330000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 01:59:39" duracion="178" categ="0" interprete="The Shortwave Set" titulo="Glitches 'N' Bugs">/home/musicam/ogg/011856600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:02:37" duracion="235" categ="0" interprete="James Ford / Florence + The Machine" titulo="Landscape">/home/musicam/ogg/013715200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:06:33" duracion="212" categ="0" interprete="Keane" titulo="Bend And Break">/home/musicam/ogg/008431400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:10:05" duracion="237" categ="0" interprete="Young Galaxy" titulo="Fall For You">/home/musicam/ogg/014798200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:14:03" duracion="218" categ="0" interprete="The Fray" titulo="Break Your Plans">/home/musicam/ogg/015266500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:17:41" duracion="213" categ="0" interprete="Milo Greene" titulo="Lie To Me">/home/musicam/ogg/021333901.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:21:15" duracion="166" categ="0" interprete="The School" titulo="Is He Really Coming Home">/home/musicam/ogg/012628500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:24:02" duracion="214" categ="0" interprete="Angus &amp; Julia Stone" titulo="Mango Tree">/home/musicam/ogg/013232200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:27:36" duracion="210" categ="0" interprete="77 Bombay Street" titulo="47 Millionaires">/home/musicam/ogg/013845300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:31:06" duracion="247" categ="0" interprete="HAIM" titulo="Falling">/home/musicam/ogg/014586000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:35:14" duracion="219" categ="0" interprete="Capital Cities" titulo="Kangaroo Court">/home/musicam/ogg/015042700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:38:53" duracion="217" categ="0" interprete="Train" titulo="Get To Me">/home/musicam/ogg/008597900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:42:31" duracion="194" categ="0" interprete="Grouplove" titulo="Chloe">/home/musicam/ogg/014589300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:45:45" duracion="240" categ="0" interprete="Naked" titulo="Raining On The Sky">/home/musicam/ogg/000572900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:49:45" duracion="201" categ="0" interprete="The Bird and the Bee" titulo="Meteor">/home/musicam/ogg/012632800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:53:07" duracion="203" categ="0" interprete="Clubfeet" titulo="Cape Town">/home/musicam/ogg/015024700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 02:56:30" duracion="230" categ="0" interprete="Kate Nash" titulo="Foundations">/home/musicam/ogg/010815800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:00:21" duracion="299" categ="0" interprete="Spoon" titulo="They Never Got You">/home/musicam/ogg/008936900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:05:20" duracion="238" categ="0" interprete="Belle and Sebastian" titulo="Another Sunny Day">/home/musicam/ogg/009133701.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:09:18" duracion="263" categ="0" interprete="Death Cab For Cutie" titulo="Brothers On A Hotel Bed">/home/musicam/ogg/008778200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:13:42" duracion="239" categ="0" interprete="Passion Pit" titulo="Eyes As Candles">/home/musicam/ogg/013197000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:17:41" duracion="245" categ="0" interprete="Robyn Hitchcock" titulo="Be Still">/home/musicam/ogg/014589800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:21:46" duracion="253" categ="0" interprete="HAIM" titulo="Go Slow">/home/musicam/ogg/015046300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:26:00" duracion="393" categ="0" interprete="Tom Odell" titulo="Another Love">/home/musicam/ogg/015348500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:32:33" duracion="238" categ="0" interprete="Neon Trees" titulo="Unavoidable">/home/musicam/ogg/021005500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:36:31" duracion="228" categ="0" interprete="Css" titulo="Too Hot">/home/musicam/ogg/014883500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:40:19" duracion="169" categ="0" interprete="Spoon" titulo="The Two Sides Of Monsieur Valentine">/home/musicam/ogg/008936100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:43:08" duracion="221" categ="0" interprete="Gemini Club" titulo="By Surprise">/home/musicam/ogg/015274500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:46:49" duracion="198" categ="0" interprete="Lake Heartbeat" titulo="Mystery">/home/musicam/ogg/015273000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:50:08" duracion="324" categ="0" interprete="The Aikiu" titulo="A Distant Science">/home/musicam/ogg/021071600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:55:32" duracion="185" categ="0" interprete="The Narcoleptic Dancers" titulo="Again And Again">/home/musicam/ogg/013351400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 03:58:38" duracion="181" categ="0" interprete="Lake Heartbeat" titulo="Golden Chain">/home/musicam/ogg/015273600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:01:39" duracion="209" categ="0" interprete="The Holidays" titulo="Voices Drifting">/home/musicam/ogg/021308900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:05:09" duracion="351" categ="0" interprete="Out Cold" titulo="Sorrow">/home/musicam/ogg/015221400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:11:00" duracion="214" categ="0" interprete="Panama Wedding" titulo="All Of The People">/home/musicam/ogg/014989200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:14:35" duracion="126" categ="0" interprete="The Weepies" titulo="Be My Honeypie">/home/musicam/ogg/013758600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:16:41" duracion="200" categ="0" interprete="The Drums" titulo="Best Friend">/home/musicam/ogg/012790300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:20:02" duracion="217" categ="0" interprete="Panama" titulo="Magic">/home/musicam/ogg/021319900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:23:40" duracion="191" categ="0" interprete="American Authors" titulo="Best Day Of My Life">/home/musicam/ogg/014949400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:26:51" duracion="258" categ="0" interprete="Tahiti 80" titulo="Cherri Pie">/home/musicam/ogg/008780900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:31:10" duracion="246" categ="0" interprete="Memoryhouse" titulo="The Kids Were Wrong">/home/musicam/ogg/014217000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:35:16" duracion="181" categ="0" interprete="Lightning Dust" titulo="Antonia June">/home/musicam/ogg/013250400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:38:18" duracion="262" categ="0" interprete="La Roux" titulo="Uptight Downtown">/home/musicam/ogg/021012200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:42:40" duracion="306" categ="0" interprete="Ivy" titulo="Four In The Morning">/home/musicam/ogg/009884900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:47:47" duracion="248" categ="0" interprete="Marian" titulo="For You">/home/musicam/ogg/013613500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:51:55" duracion="261" categ="0" interprete="Empire of the Sun" titulo="I'll Be Around">/home/musicam/ogg/014993900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 04:56:16" duracion="245" categ="0" interprete="Architecture in Helsinki" titulo="B4 3D">/home/musicam/ogg/013304700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:00:22" duracion="193" categ="0" interprete="The Aikiu" titulo="Barbarella">/home/musicam/ogg/021071100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:03:35" duracion="228" categ="0" interprete="Milwalkie" titulo="Land">/home/musicam/ogg/021308300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:07:23" duracion="252" categ="0" interprete="Leftover Cuties" titulo="Not One">/home/musicam/ogg/013380200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:11:36" duracion="207" categ="0" interprete="Catcall" titulo="Satellites">/home/musicam/ogg/015124800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:15:03" duracion="351" categ="0" interprete="The Holidays" titulo="Japan Window">/home/musicam/ogg/021309100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:20:54" duracion="170" categ="0" interprete="Crocodiles" titulo="Marquis De Sade">/home/musicam/ogg/014987700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:23:45" duracion="237" categ="0" interprete="Jet" titulo="Bring It On Back">/home/musicam/ogg/009612000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:27:42" duracion="183" categ="0" interprete="The Silver Seas" titulo="From My Windowsill">/home/musicam/ogg/013572100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:30:46" duracion="238" categ="0" interprete="Ingrid Michaelson" titulo="Afterlife">/home/musicam/ogg/015382600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:34:45" duracion="238" categ="0" interprete="The Charlatans" titulo="Muddy Ground">/home/musicam/ogg/009287101.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:38:43" duracion="250" categ="0" interprete="Andrew Belle" titulo="Tower">/home/musicam/ogg/013759700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:42:54" duracion="230" categ="0" interprete="Tanlines" titulo="Brothers">/home/musicam/ogg/013939000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:46:45" duracion="214" categ="0" interprete="The Whitest Boy Alive" titulo="Intentions">/home/musicam/ogg/013497100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:50:19" duracion="244" categ="0" interprete="HAIM" titulo="The Wire">/home/musicam/ogg/015045700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:54:24" duracion="215" categ="0" interprete="Tegan and Sara" titulo="Where Does The Good Go">/home/musicam/ogg/013175800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 05:57:59" duracion="221" categ="0" interprete="Architecture in Helsinki" titulo="Born to Convince You">/home/musicam/ogg/021062301.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:01:41" duracion="206" categ="0" interprete="Stereophonics" titulo="Daisy Lane">/home/musicam/ogg/011358300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:05:07" duracion="185" categ="0" interprete="Whomadewho" titulo="Cigar">/home/musicam/ogg/008726500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:08:12" duracion="245" categ="0" interprete="Heavenly Beat" titulo="Expectation">/home/musicam/ogg/015103300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:12:18" duracion="250" categ="0" interprete="The Killers" titulo="Losing Touch">/home/musicam/ogg/011773600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:16:28" duracion="239" categ="0" interprete="Capital Cities" titulo="Center Stage">/home/musicam/ogg/015042500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:20:28" duracion="227" categ="0" interprete="The Rifles" titulo="Nothing Matters">/home/musicam/ogg/013608400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:24:15" duracion="249" categ="0" interprete="Vetiver" titulo="Hard To Break">/home/musicam/ogg/013529600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:28:24" duracion="209" categ="0" interprete="The Feeling" titulo="Fill My Little World">/home/musicam/ogg/008949500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:31:53" duracion="201" categ="0" interprete="Bastille" titulo="Icarus">/home/musicam/ogg/014765500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:35:15" duracion="261" categ="0" interprete="Milky Chance" titulo="Feathery (Bonus Track)">/home/musicam/ogg/021007301.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:39:37" duracion="213" categ="0" interprete="The Whitest Boy Alive" titulo="1517">/home/musicam/ogg/013497600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:43:11" duracion="202" categ="0" interprete="The Rifles" titulo="Great Escape">/home/musicam/ogg/011700800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:46:33" duracion="319" categ="0" interprete="The Go Find" titulo="Everybody Knows It's Gonna Happen Only Not Tonight">/home/musicam/ogg/012587400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:51:52" duracion="232" categ="0" interprete="Travis" titulo="A Different Room">/home/musicam/ogg/014983500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:55:45" duracion="188" categ="0" interprete="Bleachers" titulo="Rollercoaster">/home/musicam/ogg/021132100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 06:58:54" duracion="187" categ="0" interprete="Lilly Wood &amp; The Prick / Robyn Schultz" titulo="Prayer In C">/home/musicam/ogg/020966901.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:02:02" duracion="222" categ="0" interprete="Republic Tigers" titulo="Buildings And Mountains">/home/musicam/ogg/011445300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:05:44" duracion="309" categ="0" interprete="The Asteroids Galaxy Tour" titulo="Navigator">/home/musicam/ogg/021089700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:10:53" duracion="231" categ="0" interprete="Hoobastank" titulo="The Reason">/home/musicam/ogg/004841400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:14:45" duracion="217" categ="0" interprete="Adrienne Pierce" titulo="Guilty Of Everything">/home/musicam/ogg/013820300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:18:23" duracion="162" categ="0" interprete="The Fray" titulo="Closer To Me">/home/musicam/ogg/015266100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:21:05" duracion="213" categ="0" interprete="Team" titulo="Alone in My Room">/home/musicam/ogg/021224501.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:24:39" duracion="215" categ="0" interprete="Metronomy" titulo="The Most Immaculate Haircut">/home/musicam/ogg/015271700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:28:15" duracion="219" categ="0" interprete="Tyrone Wells" titulo="And The Birds Sing">/home/musicam/ogg/013917200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:31:54" duracion="209" categ="0" interprete="Tahiti 80" titulo="Missing">/home/musicam/ogg/021218801.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:35:23" duracion="181" categ="0" interprete="Bleachers" titulo="Reckless Love">/home/musicam/ogg/021132500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:38:24" duracion="173" categ="0" interprete="Tahiti 80" titulo="On The Run">/home/musicam/ogg/008780700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:41:18" duracion="300" categ="0" interprete="Bombay Bicycle Club" titulo="Lights Out Words Gone">/home/musicam/ogg/013532600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:46:18" duracion="148" categ="0" interprete="Youth Club" titulo="Filling It Up to Go">/home/musicam/ogg/021307500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:48:47" duracion="186" categ="0" interprete="Belop" titulo="Come Up With Your Own Moves">/home/musicam/ogg/015166700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:51:54" duracion="196" categ="0" interprete="The Rifles" titulo="Cry Baby">/home/musicam/ogg/013608800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:55:10" duracion="174" categ="0" interprete="Noisettes" titulo="Sister Rosetta">/home/musicam/ogg/013675200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 07:58:05" duracion="174" categ="0" interprete="Phoenix" titulo="Everything Is Everything">/home/musicam/ogg/004800000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:00:59" duracion="178" categ="0" interprete="Jacuzzi Boys" titulo="Double Vision">/home/musicam/ogg/014953000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:03:58" duracion="216" categ="0" interprete="Melee" titulo="Built To Last">/home/musicam/ogg/011321000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:07:35" duracion="256" categ="0" interprete="Azure Blue" titulo="Chesil Beach">/home/musicam/ogg/015351100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:11:51" duracion="242" categ="0" interprete="Rüfüs" titulo="Take Me">/home/musicam/ogg/021318700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:15:53" duracion="238" categ="0" interprete="Crocodiles" titulo="Me And My Machine Gun">/home/musicam/ogg/014987200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:19:52" duracion="229" categ="0" interprete="Sky Ferreira" titulo="24 Hours">/home/musicam/ogg/015370800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:23:41" duracion="266" categ="0" interprete="Dire Straits" titulo="Angel Of Mercy">/home/musicam/ogg/016705000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:28:08" duracion="130" categ="0" interprete="Nightlands" titulo="I Fell In Love With A Feeling">/home/musicam/ogg/014435600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:30:18" duracion="193" categ="0" interprete="Nick Mulvey" titulo="Nitrous">/home/musicam/ogg/021308500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:33:32" duracion="212" categ="0" interprete="Broken Bells" titulo="October">/home/musicam/ogg/012680500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:37:04" duracion="116" categ="0" interprete="The Weepies" titulo="Hope Tomorrow">/home/musicam/ogg/013759100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:39:00" duracion="252" categ="0" interprete="Architecture in Helsinki" titulo="Desert Island">/home/musicam/ogg/013303700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:43:13" duracion="161" categ="0" interprete="Bishop Allen" titulo="Black Hole">/home/musicam/ogg/021017600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:45:54" duracion="222" categ="0" interprete="Bag Raiders" titulo="So Demanding">/home/musicam/ogg/013532100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:49:36" duracion="234" categ="0" interprete="Bishop Allen" titulo="Why I Had To Go">/home/musicam/ogg/021017200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:53:30" duracion="239" categ="0" interprete="Future Islands" titulo="A Dream of You and Me">/home/musicam/ogg/021129000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 08:57:30" duracion="261" categ="0" interprete="Camera Obscura" titulo="Troublemaker">/home/musicam/ogg/015189400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:01:52" duracion="266" categ="0" interprete="Clean Bandit" titulo="Dust Clears (feat. Noonie Bao)">/home/musicam/ogg/021115400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:06:19" duracion="174" categ="0" interprete="Lanie Lane" titulo="Betty Baby">/home/musicam/ogg/014437100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:09:13" duracion="226" categ="0" interprete="The Rifles" titulo="Tangled Up In Love">/home/musicam/ogg/013607900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:13:00" duracion="239" categ="0" interprete="Junior Boys" titulo="A Truly Happy Ending">/home/musicam/ogg/013676800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:16:59" duracion="199" categ="0" interprete="Megan Slankard" titulo="Dirty Wings">/home/musicam/ogg/013821700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:20:19" duracion="222" categ="0" interprete="Erevan Tusk" titulo="Cassidy">/home/musicam/ogg/015062900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:24:01" duracion="207" categ="0" interprete="Lana Del Rey" titulo="Blue Jeans">/home/musicam/ogg/013838700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:27:29" duracion="178" categ="0" interprete="Azure Blue" titulo="Long Way Down">/home/musicam/ogg/015350700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:30:27" duracion="237" categ="0" interprete="Camera Obscura" titulo="Tears For Affairs">/home/musicam/ogg/009421500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:34:24" duracion="186" categ="0" interprete="Scavenger Hunt" titulo="Lost">/home/musicam/ogg/021306700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:37:31" duracion="301" categ="0" interprete="Everlast" titulo="What's It Like">/home/musicam/ogg/000604000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:42:32" duracion="246" categ="0" interprete="Joseph Arthur" titulo="Can't Exist">/home/musicam/ogg/008375100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:46:38" duracion="207" categ="0" interprete="Ingrid Michaelson" titulo="Stick">/home/musicam/ogg/015382500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:50:06" duracion="255" categ="0" interprete="Blood Orange" titulo="Chamakay">/home/musicam/ogg/015124300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:54:22" duracion="254" categ="0" interprete="Hypnolove" titulo="Beyond Paradise">/home/musicam/ogg/015312400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 09:58:36" duracion="215" categ="0" interprete="The Ocean Blue" titulo="Fast Forward Reverse">/home/musicam/ogg/021308000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:02:11" duracion="214" categ="0" interprete="The Aikiu" titulo="Somehow">/home/musicam/ogg/021071500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:05:46" duracion="193" categ="0" interprete="Alpine" titulo="Hands">/home/musicam/ogg/015170200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:09:00" duracion="258" categ="0" interprete="White Lies" titulo="Be Your Man">/home/musicam/ogg/014972400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:13:18" duracion="215" categ="0" interprete="Capital Cities" titulo="Chartreuse">/home/musicam/ogg/015042300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:16:54" duracion="277" categ="0" interprete="Budapest" titulo="Is This The Best It Gets">/home/musicam/ogg/013039700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:21:31" duracion="175" categ="0" interprete="Death Cab For Cutie" titulo="Some Boys">/home/musicam/ogg/013381100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:24:26" duracion="218" categ="0" interprete="Chairlift" titulo="Sidewalk Safari">/home/musicam/ogg/014399400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:28:05" duracion="167" categ="0" interprete="Koop" titulo="Come To Me">/home/musicam/ogg/013178100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:30:53" duracion="185" categ="0" interprete="French Films" titulo="Latter Days">/home/musicam/ogg/014956000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:33:58" duracion="228" categ="0" interprete="Theme Park" titulo="Big Dream">/home/musicam/ogg/015136100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:37:46" duracion="227" categ="0" interprete="Sticky Fingers" titulo="If You Go">/home/musicam/ogg/021382200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:41:34" duracion="233" categ="0" interprete="Craft Spells" titulo="After The Moment">/home/musicam/ogg/015151000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:45:27" duracion="295" categ="0" interprete="Primal Scream" titulo="It's Alright, It's Ok">/home/musicam/ogg/014955900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:50:22" duracion="280" categ="0" interprete="Milky Chance" titulo="Sadnecessary">/home/musicam/ogg/021006701.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:55:03" duracion="211" categ="0" interprete="Chela" titulo="Romanticise">/home/musicam/ogg/015066800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 10:58:35" duracion="179" categ="0" interprete="Architecture in Helsinki" titulo="Dream a Little Crazy">/home/musicam/ogg/021061901.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:01:35" duracion="187" categ="0" interprete="Fountains of Wayne" titulo="Acela">/home/musicam/ogg/013485900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:04:42" duracion="216" categ="0" interprete="Belle and Sebastian" titulo="Blue Eyes Of A Millionaire">/home/musicam/ogg/014984400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:08:18" duracion="206" categ="0" interprete="The Postal Service" titulo="There's Never Enought Time">/home/musicam/ogg/014895100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:11:44" duracion="199" categ="0" interprete="Katie Herzig" titulo="Best Day Of Your Life">/home/musicam/ogg/013819200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:15:04" duracion="211" categ="0" interprete="Spoon" titulo="I Turn My Camera On">/home/musicam/ogg/008936200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:18:36" duracion="287" categ="0" interprete="Kye Kye" titulo="Softly">/home/musicam/ogg/015233100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:23:24" duracion="201" categ="0" interprete="The Black Keys" titulo="Every Lasting Light">/home/musicam/ogg/012818900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:26:46" duracion="193" categ="0" interprete="Adrienne Pierce" titulo="Black Sand">/home/musicam/ogg/013820200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:29:59" duracion="209" categ="0" interprete="Cocoon" titulo="Cliffhanger">/home/musicam/ogg/015349900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:33:28" duracion="216" categ="0" interprete="The 1975" titulo="Chocolate">/home/musicam/ogg/014990300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:37:04" duracion="177" categ="0" interprete="Jeff Bhasker / fun." titulo="All Alone">/home/musicam/ogg/014004900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:40:02" duracion="247" categ="0" interprete="The Feelies" titulo="Morning Comes">/home/musicam/ogg/013305400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:44:09" duracion="255" categ="0" interprete="Switchfoot" titulo="Back To The Beginning Again">/home/musicam/ogg/015221300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:48:25" duracion="197" categ="0" interprete="Linus Young" titulo="Cool Trip">/home/musicam/ogg/021208000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:51:43" duracion="294" categ="0" interprete="Luxury Liners" titulo="Sit &amp; See">/home/musicam/ogg/015162000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 11:56:38" duracion="206" categ="0" interprete="Bishop Allen" titulo="No Show">/home/musicam/ogg/021017400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:00:04" duracion="191" categ="0" interprete="The Mamas &amp; the Papas" titulo="Somebody Groovy">/home/musicam/ogg/016879101.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:03:15" duracion="236" categ="0" interprete="Angus &amp; Julia Stone" titulo="Big Jet Plane">/home/musicam/ogg/014743400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:07:12" duracion="219" categ="0" interprete="Mat Kearney" titulo="Breathe In Breathe Out">/home/musicam/ogg/013178700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:10:51" duracion="183" categ="0" interprete="Grouplove" titulo="Naked Kids">/home/musicam/ogg/014589000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:13:55" duracion="153" categ="0" interprete="Charlotte Gainsbourg" titulo="Anna">/home/musicam/ogg/013807700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:16:28" duracion="218" categ="0" interprete="Shannon Labrie" titulo="Love Somebody">/home/musicam/ogg/014586700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:20:06" duracion="226" categ="0" interprete="White Lies" titulo="Goldmine">/home/musicam/ogg/014972000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:23:53" duracion="207" categ="0" interprete="Jukebox The Ghost" titulo="Adulthood">/home/musicam/ogg/015191500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:27:20" duracion="198" categ="0" interprete="The Mary Onettes" titulo="Blues">/home/musicam/ogg/015191000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:30:39" duracion="213" categ="0" interprete="Ingrid Michaelson" titulo="Black And Blue">/home/musicam/ogg/013919600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:34:12" duracion="120" categ="0" interprete="Buffalo Tom" titulo="She's Not Your Thing">/home/musicam/ogg/013616500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:36:13" duracion="127" categ="0" interprete="Dum Dum Girls" titulo="Cult Of Love">/home/musicam/ogg/015272000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:38:21" duracion="238" categ="0" interprete="Sterlin" titulo="Curse It All">/home/musicam/ogg/010735400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:42:20" duracion="158" categ="0" interprete="The Bird and the Bee" titulo="Again And Again">/home/musicam/ogg/013177600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:44:59" duracion="217" categ="0" interprete="Alunageorge" titulo="Best Be Believing">/home/musicam/ogg/015017800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:48:36" duracion="317" categ="0" interprete="Crystal Fighters" titulo="Bridge Of Bones">/home/musicam/ogg/014846600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:53:54" duracion="208" categ="0" interprete="Eagle&#8208;Eye Cherry" titulo="Been Here Once Before">/home/musicam/ogg/018327700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 12:57:23" duracion="177" categ="0" interprete="Albert Hammond Jr." titulo="Everyone Gets A Star">/home/musicam/ogg/013500200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:00:20" duracion="243" categ="0" interprete="Milky Chance" titulo="Down By the River">/home/musicam/ogg/021006800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:04:24" duracion="233" categ="0" interprete="The Holidays" titulo="Home">/home/musicam/ogg/021308800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:08:17" duracion="214" categ="0" interprete="Ms Mr" titulo="Hurricane">/home/musicam/ogg/014956400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:11:52" duracion="248" categ="0" interprete="Joe Hertz" titulo="At Your Touch">/home/musicam/ogg/015120200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:16:00" duracion="222" categ="0" interprete="The Shins" titulo="Fall Of 82">/home/musicam/ogg/013938600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:19:43" duracion="280" categ="0" interprete="Louise Burns" titulo="Emeralds Shatter">/home/musicam/ogg/021306401.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:24:24" duracion="256" categ="0" interprete="Belle and Sebastian" titulo="Calculating Bimbo">/home/musicam/ogg/012951900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:28:41" duracion="175" categ="0" interprete="Au Revoir Simone" titulo="Crazy">/home/musicam/ogg/015163100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:31:36" duracion="182" categ="0" interprete="L.A." titulo="Close To You">/home/musicam/ogg/012507800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:34:39" duracion="207" categ="0" interprete="Adele" titulo="Chasing Pavements">/home/musicam/ogg/012538100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:38:06" duracion="250" categ="0" interprete="Barcelona" titulo="Diamond and Silver">/home/musicam/ogg/021105500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:42:17" duracion="256" categ="0" interprete="Death Cab For Cutie" titulo="Codes And Keys">/home/musicam/ogg/013381000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:46:33" duracion="198" categ="0" interprete="Ellie Goulding" titulo="Atlantis">/home/musicam/ogg/014338100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:49:52" duracion="214" categ="0" interprete="Monogem" titulo="Wait and See">/home/musicam/ogg/021229600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:53:27" duracion="250" categ="0" interprete="OneRepublic" titulo="Burning Bridges">/home/musicam/ogg/014685300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 13:57:37" duracion="284" categ="0" interprete="Jenny Wilson" titulo="Anchor Made Of Gold">/home/musicam/ogg/012603700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:02:22" duracion="231" categ="0" interprete="Richard Ashcroft" titulo="Break The Night With Colour">/home/musicam/ogg/009028800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:06:13" duracion="214" categ="0" interprete="Linus Young" titulo="Where O Where">/home/musicam/ogg/021208501.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:09:47" duracion="206" categ="0" interprete="Nick Mulvey" titulo="Meet Me There">/home/musicam/ogg/021308100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:13:13" duracion="267" categ="0" interprete="The Jar Family" titulo="Cinderella">/home/musicam/ogg/013918600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:17:41" duracion="200" categ="0" interprete="Marlon Roudette" titulo="When the Beat Drops Out">/home/musicam/ogg/021273401.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:21:02" duracion="198" categ="0" interprete="St. Lucia" titulo="Closer Than This">/home/musicam/ogg/021381501.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:24:21" duracion="261" categ="0" interprete="Neon Trees" titulo="Trust">/home/musicam/ogg/014149100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:28:43" duracion="178" categ="0" interprete="Tahiti 80" titulo="Seven Seas">/home/musicam/ogg/021219101.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:31:41" duracion="209" categ="0" interprete="Nonono" titulo="Pumpin Blood">/home/musicam/ogg/021147400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:35:10" duracion="209" categ="0" interprete="Augustana" titulo="I Still Ain't Over You">/home/musicam/ogg/011503500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:38:40" duracion="322" categ="0" interprete="Arcade Fire" titulo="We Exist">/home/musicam/ogg/015106800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:44:02" duracion="243" categ="0" interprete="She And Him" titulo="Thieves">/home/musicam/ogg/013302200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:48:06" duracion="200" categ="0" interprete="Alunageorge" titulo="Kaleidoscope Love">/home/musicam/ogg/015017400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:51:26" duracion="152" categ="0" interprete="The Strokes" titulo="All The Time">/home/musicam/ogg/014710000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:53:59" duracion="294" categ="0" interprete="Hot Chip" titulo="Always Been Your Love">/home/musicam/ogg/014062700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 14:58:53" duracion="193" categ="0" interprete="Youth Club" titulo="Your Only Self">/home/musicam/ogg/021307100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:02:06" duracion="173" categ="0" interprete="The Sunday Drivers" titulo="Little Chat">/home/musicam/ogg/010489700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:04:59" duracion="251" categ="0" interprete="Dive In" titulo="Let Go">/home/musicam/ogg/015069000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:09:11" duracion="157" categ="0" interprete="The Who" titulo="I'm Free">/home/musicam/ogg/004065100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:11:49" duracion="182" categ="0" interprete="Rac / Tokyo Police Club" titulo="Tourist">/home/musicam/ogg/015329400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:14:52" duracion="234" categ="0" interprete="Jenny O." titulo="Come Get Me">/home/musicam/ogg/015164800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:18:46" duracion="209" categ="0" interprete="Lilly Wood &amp; The Prick" titulo="Guys In Bands">/home/musicam/ogg/014420200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:22:16" duracion="255" categ="0" interprete="Bombay Bicycle Club" titulo="Come To">/home/musicam/ogg/015287700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:26:31" duracion="238" categ="0" interprete="Young Summer" titulo="Cage">/home/musicam/ogg/021272100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:30:30" duracion="202" categ="0" interprete="Death Cab For Cutie" titulo="Crooked Teeth">/home/musicam/ogg/008778000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:33:53" duracion="181" categ="0" interprete="Jagwar Ma" titulo="Somersault">/home/musicam/ogg/021211300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:36:54" duracion="188" categ="0" interprete="Adele" titulo="Cold Shoulder">/home/musicam/ogg/012538200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:40:03" duracion="212" categ="0" interprete="Ben Lee" titulo="I Love Pop Music">/home/musicam/ogg/011916600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:43:36" duracion="192" categ="0" interprete="April Smith And The Great Picture Show" titulo="Wow And Flutter">/home/musicam/ogg/012620700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:46:48" duracion="228" categ="0" interprete="The Mary Onettes" titulo="Hit The Waves">/home/musicam/ogg/015190600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:50:36" duracion="216" categ="0" interprete="Bretones" titulo="Envy">/home/musicam/ogg/021096000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:54:13" duracion="264" categ="0" interprete="Bleachers" titulo="You're Still a Mystery">/home/musicam/ogg/021132800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 15:58:38" duracion="238" categ="0" interprete="My Excuse" titulo="Happy">/home/musicam/ogg/004614800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:02:36" duracion="279" categ="0" interprete="HAIM" titulo="The Wire">/home/musicam/ogg/021381001.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:07:16" duracion="139" categ="0" interprete="The Beach Boys" titulo="Do It Again">/home/musicam/ogg/017061801.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:09:35" duracion="213" categ="0" interprete="Deacon Blue" titulo="Cut Lip">/home/musicam/ogg/005443900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:13:09" duracion="184" categ="0" interprete="The Clash" titulo="Should I Stay Or Should I Go">/home/musicam/ogg/005411200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:16:14" duracion="239" categ="0" interprete="Clubfeet" titulo="Get Loose">/home/musicam/ogg/015024800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:20:14" duracion="231" categ="0" interprete="The Clientele" titulo="Jerry">/home/musicam/ogg/013816100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:24:05" duracion="218" categ="0" interprete="The Silver Seas" titulo="The Best Things In Life">/home/musicam/ogg/013571700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:27:43" duracion="290" categ="0" interprete="Whomadewho" titulo="Space For Rent">/home/musicam/ogg/008726000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:32:34" duracion="195" categ="0" interprete="Broken Bells" titulo="The Ghost Inside">/home/musicam/ogg/012680100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:35:49" duracion="207" categ="0" interprete="Scarlett Johansson" titulo="Anywhere I Lay My Head">/home/musicam/ogg/013231200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:39:17" duracion="224" categ="0" interprete="Architecture in Helsinki" titulo="2 Time">/home/musicam/ogg/021062400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:43:01" duracion="211" categ="0" interprete="Superfood" titulo="Superfood">/home/musicam/ogg/021382301.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:46:33" duracion="204" categ="0" interprete="The Common Linnets" titulo="Calm After The Storm">/home/musicam/ogg/015374900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:49:57" duracion="248" categ="0" interprete="Belop" titulo="On The Air">/home/musicam/ogg/015167100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:54:05" duracion="219" categ="0" interprete="Siebenhaar / Trolle" titulo="Clear Road">/home/musicam/ogg/012626000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 16:57:44" duracion="210" categ="0" interprete="Grouplove" titulo="Betty's A Bombshell">/home/musicam/ogg/014589200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:01:15" duracion="279" categ="0" interprete="Bear's Den" titulo="Above the Clouds of Pompeii">/home/musicam/ogg/021212600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:05:54" duracion="230" categ="0" interprete="Saint Motel" titulo="Cold Cold Man">/home/musicam/ogg/021307300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:09:45" duracion="278" categ="0" interprete="Lana Del Rey" titulo="Born To Die">/home/musicam/ogg/013838500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:14:23" duracion="232" categ="0" interprete="British Sea Power" titulo="Berth 24">/home/musicam/ogg/015161500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:18:16" duracion="261" categ="0" interprete="St. Lucia" titulo="All Eyes On You">/home/musicam/ogg/021381401.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:22:37" duracion="170" categ="0" interprete="The Strokes" titulo="Happy Ending">/home/musicam/ogg/014710800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:25:28" duracion="163" categ="0" interprete="Dum Dum Girls" titulo="Are You Okay?">/home/musicam/ogg/015272300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:28:11" duracion="247" categ="0" interprete="Dale Earnhardt Jr. Jr." titulo="If You Didn't See Me (Then You Weren't On the Dancefloor)">/home/musicam/ogg/021307700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:32:18" duracion="225" categ="0" interprete="The Holidays" titulo="Outsiders">/home/musicam/ogg/021309300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:36:04" duracion="197" categ="0" interprete="Neon Trees" titulo="Teenager In Love">/home/musicam/ogg/021005300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:39:22" duracion="243" categ="0" interprete="Leftover Cuties" titulo="By Morning">/home/musicam/ogg/013380400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:43:25" duracion="182" categ="0" interprete="Mat Kearney / Ingrid Michaelson" titulo="One Night Town">/home/musicam/ogg/015382200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:46:28" duracion="260" categ="0" interprete="The Mary Onettes" titulo="Years">/home/musicam/ogg/015190700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:50:48" duracion="223" categ="0" interprete="Bishop Allen" titulo="Skeleton Key">/home/musicam/ogg/021017700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:54:31" duracion="186" categ="0" interprete="Alunageorge" titulo="Attracting Files">/home/musicam/ogg/014884100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 17:57:38" duracion="254" categ="0" interprete="Simple Minds" titulo="Don't You Forget About Me">/home/musicam/ogg/005971700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:01:52" duracion="254" categ="0" interprete="We Are Standard" titulo="Good News">/home/musicam/ogg/013715800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:06:07" duracion="241" categ="0" interprete="Rac / Yacht" titulo="405">/home/musicam/ogg/015330200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:10:08" duracion="192" categ="0" interprete="Quadron" titulo="Hey Love">/home/musicam/ogg/015354700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:13:21" duracion="233" categ="0" interprete="Stornoway" titulo="The Bigger Picture">/home/musicam/ogg/014751700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:17:14" duracion="174" categ="0" interprete="Wildshire" titulo="Special">/home/musicam/ogg/004319000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:20:08" duracion="234" categ="0" interprete="Panama" titulo="One Piece">/home/musicam/ogg/021320000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:24:03" duracion="330" categ="0" interprete="Camera Obscura" titulo="New Year's Resolution">/home/musicam/ogg/015189600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:29:34" duracion="229" categ="0" interprete="Lenka" titulo="The Show">/home/musicam/ogg/012177700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:33:23" duracion="230" categ="0" interprete="Chela / Clubfeet" titulo="Heartbreak">/home/musicam/ogg/014953500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:37:14" duracion="242" categ="0" interprete="Miike Snow" titulo="A Horse Is Not A Home">/home/musicam/ogg/013477100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:41:16" duracion="195" categ="0" interprete="Empire of the Sun" titulo="Surround Sound">/home/musicam/ogg/014994200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:44:31" duracion="181" categ="0" interprete="Hypnolove" titulo="Come To My Empire">/home/musicam/ogg/015312300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:47:33" duracion="233" categ="0" interprete="Spoon" titulo="I Summon You">/home/musicam/ogg/008936600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:51:27" duracion="175" categ="0" interprete="Arctic Monkeys" titulo="The Hellcat Spangled Shalalala">/home/musicam/ogg/013616700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:54:22" duracion="172" categ="0" interprete="The Postal Service" titulo="A Tattered Line Of String">/home/musicam/ogg/014894900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 18:57:15" duracion="216" categ="0" interprete="Gigolo Aunts" titulo="For A Moment">/home/musicam/ogg/013070900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:00:51" duracion="201" categ="0" interprete="The Fray" titulo="Give It Away">/home/musicam/ogg/015266000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:04:12" duracion="180" categ="0" interprete="Cults" titulo="Never Saw The Point">/home/musicam/ogg/013482700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:07:12" duracion="220" categ="0" interprete="Naive New Beaters" titulo="Live Good">/home/musicam/ogg/021183000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:10:52" duracion="186" categ="0" interprete="White Lies" titulo="Mother Tongue">/home/musicam/ogg/014972700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:13:59" duracion="249" categ="0" interprete="Accident In Paradise / Art Of Disco" titulo="Don't Be Late">/home/musicam/ogg/008418800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:18:09" duracion="192" categ="0" interprete="Ingrid Michaelson" titulo="Do It Now">/home/musicam/ogg/013919300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:21:21" duracion="185" categ="0" interprete="The Raveonettes" titulo="Gone Forever">/home/musicam/ogg/012778400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:24:27" duracion="132" categ="0" interprete="Cocosuma" titulo="Hey You">/home/musicam/ogg/008419200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:26:40" duracion="173" categ="0" interprete="Atlas Genius" titulo="Back Seat">/home/musicam/ogg/014940300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:29:34" duracion="149" categ="0" interprete="Hola A Todo El Mundo" titulo="Choose Your Own Adventure Part 1">/home/musicam/ogg/013194100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:32:03" duracion="221" categ="0" interprete="Discodeine / Jarvis Cocker" titulo="Synchronize">/home/musicam/ogg/013420800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:35:45" duracion="257" categ="0" interprete="John Grant" titulo="Black Belt">/home/musicam/ogg/014884000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:40:02" duracion="255" categ="0" interprete="Team" titulo="Just Like You (When You Turn Out the Lights)">/home/musicam/ogg/021224800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:44:17" duracion="240" categ="0" interprete="The Holidays" titulo="Simple Pleasures">/home/musicam/ogg/021309200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:48:17" duracion="175" categ="0" interprete="The Postmarks" titulo="Don't Know Till You Try">/home/musicam/ogg/012630000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:51:13" duracion="277" categ="0" interprete="Katie Herzig" titulo="Free My Mind">/home/musicam/ogg/013818900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:55:51" duracion="227" categ="0" interprete="Milwalkie" titulo="Black Alexander">/home/musicam/ogg/021306200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 19:59:39" duracion="212" categ="0" interprete="The Stills" titulo="Changes Are Not Good">/home/musicam/ogg/010857900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:03:12" duracion="195" categ="0" interprete="St. Lucia" titulo="Wait for Love">/home/musicam/ogg/021381301.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:06:27" duracion="234" categ="0" interprete="Masha Qrella" titulo="Bluebottle">/home/musicam/ogg/014060200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:10:21" duracion="185" categ="0" interprete="Capital Cities" titulo="Patience Gets Us Nowhere Fast">/home/musicam/ogg/015042800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:13:27" duracion="153" categ="0" interprete="Zee Avi" titulo="Bitter Heart">/home/musicam/ogg/013878000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:16:00" duracion="180" categ="0" interprete="Gruff Rhys" titulo="Vitamin K">/home/musicam/ogg/013535200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:19:01" duracion="231" categ="0" interprete="The House Of Love" titulo="Holy River">/home/musicam/ogg/014712000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:22:53" duracion="287" categ="0" interprete="Keane" titulo="Clear Skies">/home/musicam/ogg/012743500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:27:40" duracion="192" categ="0" interprete="Ms Mr" titulo="Think Of You">/home/musicam/ogg/014956700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:30:52" duracion="247" categ="0" interprete="Fountains of Wayne" titulo="New Routine">/home/musicam/ogg/010322800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:34:59" duracion="269" categ="0" interprete="Rüfüs" titulo="Unforgiven">/home/musicam/ogg/021319400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:39:29" duracion="293" categ="0" interprete="Css" titulo="Into The Sun">/home/musicam/ogg/014883100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:44:22" duracion="190" categ="0" interprete="Camera Obscura" titulo="French Navy">/home/musicam/ogg/012179900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:47:33" duracion="182" categ="0" interprete="Jimmy Cliff" titulo="The Harder They Come">/home/musicam/ogg/005359300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:50:35" duracion="185" categ="0" interprete="Bishop Allen" titulo="Give It Back">/home/musicam/ogg/021017500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:53:40" duracion="161" categ="0" interprete="Disaster In The Universe" titulo="Feed the Bubbles">/home/musicam/ogg/021238401.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:56:22" duracion="212" categ="0" interprete="Stereophonics" titulo="It Means Nothing">/home/musicam/ogg/010858500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 20:59:55" duracion="234" categ="0" interprete="The Cinematics" titulo="Break">/home/musicam/ogg/010323000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:03:49" duracion="172" categ="0" interprete="Acrylics" titulo="Molly's Vertigo">/home/musicam/ogg/012895700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:06:42" duracion="212" categ="0" interprete="Generationals" titulo="Durga II">/home/musicam/ogg/014874300.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:10:15" duracion="214" categ="0" interprete="Belle and Sebastian" titulo="The Blues Are Still Blue">/home/musicam/ogg/009240200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:13:49" duracion="197" categ="0" interprete="Echosmith" titulo="March Into the Sun">/home/musicam/ogg/021267501.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:17:07" duracion="279" categ="0" interprete="Hot Chip" titulo="Dark And Stormy">/home/musicam/ogg/014878200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:21:46" duracion="221" categ="0" interprete="Tanlines" titulo="All Of Me">/home/musicam/ogg/013939100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:25:28" duracion="271" categ="0" interprete="The Bilinda Butchers" titulo="All My Friends">/home/musicam/ogg/015121800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:29:59" duracion="214" categ="0" interprete="The Mary Onettes" titulo="Can't Stop The Aching">/home/musicam/ogg/015191100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:33:33" duracion="298" categ="0" interprete="Mitzi" titulo="All I Heard">/home/musicam/ogg/015120600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:38:31" duracion="201" categ="0" interprete="Noah And The Whale" titulo="Silver And Gold">/home/musicam/ogg/015150500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:41:53" duracion="229" categ="0" interprete="Gorgon City / Laura Welsh" titulo="Here For You">/home/musicam/ogg/021157201.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:45:42" duracion="198" categ="0" interprete="Anoraak" titulo="Try Me">/home/musicam/ogg/013073200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:49:01" duracion="294" categ="0" interprete="Atlas Sound" titulo="Angel Is Broken">/home/musicam/ogg/014432700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:53:56" duracion="240" categ="0" interprete="Niki and the Dove" titulo="Winterheart">/home/musicam/ogg/014144600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 21:57:56" duracion="245" categ="0" interprete="Tahiti 80" titulo="Coldest Summer">/home/musicam/ogg/021218500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:02:01" duracion="158" categ="0" interprete="Cults" titulo="Bumper">/home/musicam/ogg/013482900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:04:40" duracion="233" categ="0" interprete="Heavenly Beat" titulo="Forever">/home/musicam/ogg/015103600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:08:33" duracion="209" categ="0" interprete="Bastille" titulo="Pompeii">/home/musicam/ogg/014764900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:12:03" duracion="248" categ="0" interprete="Whomadewho" titulo="Rose">/home/musicam/ogg/008725900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:16:11" duracion="211" categ="0" interprete="Cake" titulo="What's Now Is Now">/home/musicam/ogg/013617100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:19:43" duracion="247" categ="0" interprete="Keren Ann" titulo="My Name Is Trouble">/home/musicam/ogg/013344100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:23:51" duracion="143" categ="0" interprete="Death Cab For Cutie" titulo="Home Is A Fire">/home/musicam/ogg/013380900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:26:14" duracion="200" categ="0" interprete="Regina Spektor" titulo="On The Radio">/home/musicam/ogg/013303500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:29:35" duracion="164" categ="0" interprete="Good Charlotte" titulo="I Just Wanna Live">/home/musicam/ogg/008375600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:32:19" duracion="206" categ="0" interprete="Ivyrise" titulo="Disguise">/home/musicam/ogg/011526000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:35:46" duracion="200" categ="0" interprete="Cider Sky" titulo="Love Is A Drum">/home/musicam/ogg/013690700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:39:06" duracion="163" categ="0" interprete="Bag Raiders" titulo="Gone Away">/home/musicam/ogg/013532200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:41:49" duracion="229" categ="0" interprete="Fujiya &amp; Miyagi" titulo="Cat Got Your Tongue">/home/musicam/ogg/013425700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:45:39" duracion="266" categ="0" interprete="Angus &amp; Julia Stone" titulo="Love Will Take You">/home/musicam/ogg/013674500.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:50:05" duracion="202" categ="0" interprete="Keane" titulo="Spiralling">/home/musicam/ogg/011494700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:53:28" duracion="288" categ="0" interprete="Bell X1" titulo="The Trailing Skirts Of God">/home/musicam/ogg/013263800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 22:58:16" duracion="191" categ="0" interprete="Cake" titulo="Sick Of You">/home/musicam/ogg/013617200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:01:27" duracion="177" categ="0" interprete="Friendly Fires" titulo="Running Away">/home/musicam/ogg/013616800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:04:24" duracion="232" categ="0" interprete="Sterlin" titulo="Sold The World">/home/musicam/ogg/010735600.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:08:17" duracion="234" categ="0" interprete="77 Bombay Street" titulo="Hero">/home/musicam/ogg/013846100.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:12:11" duracion="218" categ="0" interprete="Cider Sky" titulo="A Minute Or Two">/home/musicam/ogg/013690900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:15:50" duracion="218" categ="0" interprete="Fruit Bats" titulo="You're Too Weird">/home/musicam/ogg/013684400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:19:28" duracion="271" categ="0" interprete="The Strokes" titulo="On The Other Side">/home/musicam/ogg/008941700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:24:00" duracion="241" categ="0" interprete="Kasabian" titulo="Goodbye Kiss">/home/musicam/ogg/013567900.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:28:02" duracion="288" categ="0" interprete="The Horrors" titulo="Dive In">/home/musicam/ogg/013530000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:32:50" duracion="250" categ="0" interprete="Fanfarlo" titulo="Sand And Ice">/home/musicam/ogg/013465400.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:37:01" duracion="127" categ="0" interprete="The Rifles" titulo="Eveline">/home/musicam/ogg/013608000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:39:09" duracion="204" categ="0" interprete="Ingrid Michaelson" titulo="Soldier">/home/musicam/ogg/013731200.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:42:33" duracion="255" categ="0" interprete="The Postal Service" titulo="Sleeping In">/home/musicam/ogg/010775700.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:46:48" duracion="197" categ="0" interprete="Rilo Kiley" titulo="Close Call">/home/musicam/ogg/012548000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:50:06" duracion="171" categ="0" interprete="Black Rebel Motorcycle Club" titulo="Shuffle Your Feet">/home/musicam/ogg/008917800.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:52:58" duracion="273" categ="0" interprete="Cake" titulo="Long Time">/home/musicam/ogg/013617000.ogg</CANCION>
+    <CANCION fecha="04/03/2015 23:57:31" duracion="262" categ="0" interprete="Clubfeet" titulo="Acapulco &amp; La">/home/musicam/ogg/015024600.ogg</CANCION>
   </PLAYLIST>
 </PLAYLISTS>

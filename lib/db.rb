@@ -89,8 +89,9 @@ def create_channel channel_number, channel_name
   begin
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
     channel_id=generate_unique_id
+    channel_description_escp=con.escape "#{channel_name}" 
     
-    rs=con.query("INSERT INTO channels (channel_id,channel_num,channel_description,channel_enabled) VALUES('#{channel_id}','#{channel_number}','#{channel_name}',0)") 
+    rs=con.query("INSERT INTO channels (channel_id,channel_num,channel_description,channel_enabled) VALUES('#{channel_id}','#{channel_number}','#{channel_description_escp}',0)") 
     
     puts "The channel #{channel_name} has been created"
     return channel_id 
@@ -168,8 +169,10 @@ end
 
 def remove_playlist_channel_date channel_id,date 
  begin
+    mysql_date="#{date[0..3]}-#{date[4..5]}-#{date[6..7]}"
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
-    con.query("DELETE FROM playlists_calendar WHERE channel_id='#{channel_id}' AND calendar_datetime LIKE '#{date}%'");
+
+    con.query("DELETE FROM playlists_calendar WHERE channel_id='#{channel_id}' AND calendar_datetime LIKE '#{mysql_date}%'");
     puts "Remove playlist from channel #{channel_id} and date #{date}" 
   rescue Mysql2::Error => e
     puts e.errno
