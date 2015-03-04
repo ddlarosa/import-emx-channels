@@ -25,8 +25,9 @@ playlist=Playlist.new
           song.title = CGI::unescape_html node.attribute('titulo')
           song.duration = node.attribute('duracion').to_i
           song.artist = CGI::unescape_html node.attribute('interprete')
-	  song.file = "#{node.inner_xml}"
+	  song.file = node.inner_xml.split('/').last.gsub(/.ogg/,'')
           song.init_hour = node.attribute('fecha')
+          song.db_exists = false
           playlist.push_song song 
         rescue StandardError => e
           errors += 1

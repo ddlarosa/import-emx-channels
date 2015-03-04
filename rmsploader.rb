@@ -54,22 +54,38 @@ end
 #Get the date depens on number day
 date = get_date_loader number_day
 
+#Remove the old playlists
 remove_old_playlists
 
+#Get the new xml playlist to process (EMX)
 xmls_to_process=get_emx_to_process(xml_path,date) 
 
 xmls_to_process.each do |xml_file|
+ 
+ puts "Processing the file #{xml_file}"
+
+ #This is the mount point of the chanel
  channel_id=""
 
- #Get the playlist belongs to this channels and date 
+ #Parse the xml playlist to process  
  playlist=read_emx_xml(xml_file) 
-
+ 
+ #Create the new channels 
  if (check_channel(playlist.channel_number)==0)
    channel_id=create_channel(playlist.channel_id, playlist.channel_name)
  elsif
    channel_id=get_channel_id(playlist.channel_number)
  end
+ 
+ #Insert the new songs into system 
+ playlist=exists_songs(playlist)
 
- puts "Processing the file #{xml_file} #{channel_id}"
+ new_songs=Array.new
+
+ playlist.songs.each do |song|
+   new_songs << song unless song.db_exists
+ end 
+
+ insert_songs(new_songs) unless new_songs.count <= 0 
 
 end 

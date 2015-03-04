@@ -6,5 +6,5 @@
 #
 
 class Song 
-  attr_accessor :title, :artist, :file, :duration, :init_hour 
+  attr_accessor :title, :artist, :file, :duration, :init_hour, :db_exists 
 end

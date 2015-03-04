@@ -102,15 +102,53 @@ def create_channel channel_number, channel_name
   end
 end
 
+def exists_songs playlist
+
+  begin
+  con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
+ 
+  playlist.songs.each do |song|
+    rs=con.query("SELECT * FROM playlists_files WHERE file_id='#{song.file}'")
+    #song=true unless rs.count<=0 
+    song.db_exists=true unless rs.count<=0
+  end 
+
+  return playlist
+
+  rescue Mysql2::Error => e
+    puts e.errno
+    puts e.error
+  ensure
+    con.close if con
+  end
+end
+
+def insert_songs songs
+  begin
+    puts "Insert new songs ..."
+    con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
+     
+    songs.each do |song| 
+      artist_escape=con.escape "#{song.artist}" 
+      title_escape=con.escape "#{song.title}" 
+      query="INSERT INTO playlists_files (file_id,file_path,file_length,file_artist,file_title) ";
+      query+="VALUES ('#{song.file}','#{song.file}.ogg',#{song.duration},'#{artist_escape}','#{title_escape}')";
+      con.query("#{query}");
+    end 
+
+  rescue Mysql2::Error => e
+    puts e.errno
+    puts e.error
+  ensure
+    con.close if con
+  end
+end
 
 def remove_old_playlists
   begin
     date=(Time.now-(15*60)).strftime("%Y-%m-%d %H:%M:%S");
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
-    #puts "DELETE FROM playlists_calendar WHERE calendar_datetime <= '#{date}'" 
     con.query("DELETE FROM playlists_calendar WHERE calendar_datetime <= '#{date}'");
-
-    puts "The query has affected #{con.affected_rows} rows"
   rescue Mysql2::Error => e
     puts e.errno
     puts e.error
