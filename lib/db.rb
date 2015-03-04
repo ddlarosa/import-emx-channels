@@ -144,11 +144,47 @@ def insert_songs songs
   end
 end
 
+def insert_playlist_calendar playlist 
+ begin
+  con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
+  channel_id=playlist.channel_id
+  songs=playlist.songs
+  
+  songs.each do |song| 
+    calendar_id=generate_unique_id
+    mysql_date=convert_date_mysql "#{song.init_hour}" 
+    sql="INSERT INTO playlists_calendar (calendar_id,channel_id,file_id,calendar_datetime) ";
+    sql+="VALUES ('#{calendar_id}','#{channel_id}','#{song.file}','#{mysql_date}')";
+    con.query("#{sql}");
+  end
+  puts "Inserting playlists calendar for channel #{channel_id}"
+  rescue Mysql2::Error => e
+    puts e.errno
+    puts e.error
+  ensure
+    con.close if con
+  end 
+end
+
+def remove_playlist_channel_date channel_id,date 
+ begin
+    con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
+    con.query("DELETE FROM playlists_calendar WHERE channel_id='#{channel_id}' AND calendar_datetime LIKE '#{date}%'");
+    puts "Remove playlist from channel #{channel_id} and date #{date}" 
+  rescue Mysql2::Error => e
+    puts e.errno
+    puts e.error
+  ensure
+    con.close if con
+  end
+end
+
 def remove_old_playlists
   begin
     date=(Time.now-(15*60)).strftime("%Y-%m-%d %H:%M:%S");
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
     con.query("DELETE FROM playlists_calendar WHERE calendar_datetime <= '#{date}'");
+    puts "Remove old playlist calendar from #{date} before";
   rescue Mysql2::Error => e
     puts e.errno
     puts e.error

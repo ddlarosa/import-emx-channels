@@ -6,7 +6,7 @@
 #
 
 class Playlist 
-  attr_accessor :channel_number, :channel_name, :songs 
+  attr_accessor :channel_id, :channel_number, :channel_name, :songs 
 
   def initialize
     @songs = Array.new

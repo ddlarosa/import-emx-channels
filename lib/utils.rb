@@ -26,3 +26,10 @@ def generate_unique_id
   random_number=(0...8).map {(65 + rand(26))}.join
   random_number+=date;
 end
+
+def convert_date_mysql date
+  mysql_date=""
+  date_arr=date.split(" ")
+  date_aux=date_arr[0].split("/")
+  mysql_date="#{date_aux[2]}-#{date_aux[1]}-#{date_aux[0]} #{date_arr[1]}" 
+end

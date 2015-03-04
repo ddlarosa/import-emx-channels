@@ -56,13 +56,16 @@ date = get_date_loader number_day
 
 #Remove the old playlists
 remove_old_playlists
+puts ""
 
 #Get the new xml playlist to process (EMX)
 xmls_to_process=get_emx_to_process(xml_path,date) 
 
 xmls_to_process.each do |xml_file|
  
- puts "Processing the file #{xml_file}"
+ puts ""
+ puts "***********************************************************"
+ puts "Processing channel #{xml_file}"
 
  #This is the mount point of the chanel
  channel_id=""
@@ -72,9 +75,9 @@ xmls_to_process.each do |xml_file|
  
  #Create the new channels 
  if (check_channel(playlist.channel_number)==0)
-   channel_id=create_channel(playlist.channel_id, playlist.channel_name)
+   playlist.channel_id=create_channel(playlist.channel_id, playlist.channel_name)
  elsif
-   channel_id=get_channel_id(playlist.channel_number)
+   playlist.channel_id=get_channel_id(playlist.channel_number)
  end
  
  #Insert the new songs into system 
@@ -88,4 +91,10 @@ xmls_to_process.each do |xml_file|
 
  insert_songs(new_songs) unless new_songs.count <= 0 
 
+ #Remove the same playlist into the same day that we are processing
+ remove_playlist_channel_date(playlist.channel_id,date)
+ 
+ #Insert playlist with time
+ insert_playlist_calendar playlist
+ puts "***********************************************************"
 end 
