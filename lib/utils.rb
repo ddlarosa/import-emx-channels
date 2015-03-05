@@ -33,3 +33,12 @@ def convert_date_mysql date
   date_aux=date_arr[0].split("/")
   mysql_date="#{date_aux[2]}-#{date_aux[1]}-#{date_aux[0]} #{date_arr[1]}" 
 end
+
+def get_num_channel num
+  if num.length == 1 
+    num="00"+num
+  elsif num.length == 2
+    num="0"+num
+  end
+  return num 
+end

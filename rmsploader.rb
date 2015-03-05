@@ -73,6 +73,9 @@ xmls_to_process.each do |xml_file|
  #Parse the xml playlist to process  
  playlist=read_emx_xml(xml_file) 
  
+ #Modify channel_number three digits with zeros 
+ playlist.channel_number=get_num_channel(playlist.channel_number)
+
  #Create the new channels 
  if (check_channel(playlist.channel_number)==0)
    playlist.channel_id=create_channel(playlist.channel_number, playlist.channel_name)
