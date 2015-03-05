@@ -15,10 +15,10 @@ module IMPORTXML
       user: 'root',
 
       # DB password
-      password: '93teiFJ8mrR',
+      password: 'musicam',
 
       # Database
-      database: 'musicam',
+      database: 'rms',
     },
 
     paths: {

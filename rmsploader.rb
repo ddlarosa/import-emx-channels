@@ -75,7 +75,7 @@ xmls_to_process.each do |xml_file|
  
  #Create the new channels 
  if (check_channel(playlist.channel_number)==0)
-   playlist.channel_id=create_channel(playlist.channel_id, playlist.channel_name)
+   playlist.channel_id=create_channel(playlist.channel_number, playlist.channel_name)
    create_mountpoint(playlist.channel_id,playlist.channel_number)
  elsif
    playlist.channel_id=get_channel_id(playlist.channel_number)
