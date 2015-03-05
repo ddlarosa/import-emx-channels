@@ -16,13 +16,6 @@ Clonar los repositorios de servidor (Git Hub):
 
 git clone https://github.com/ddlarosa/import-emx-channels
 
-### Configurando gemas
-
-A continuación instalar el gestor de dependencias de paquetes Ruby y
-el sistema de lanzamiento de aplicaciones a nivel del sistema:
-
-    sudo gem install bundler
-
 ### Fichero de configuración
 
 La configuración por defecto del sistema está en `import_emx_channels/config/base.rb`.

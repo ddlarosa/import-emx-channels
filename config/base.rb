@@ -15,10 +15,10 @@ module IMPORTXML
       user: 'root',
 
       # DB password
-      password: 'musicam',
+      password: '93teiFJ8mrR',
 
       # Database
-      database: 'rms',
+      database: 'musicam',
     },
 
     paths: {
@@ -26,6 +26,13 @@ module IMPORTXML
       xml_emx_channels: File.expand_path("../../xml/emx", __FILE__),
 
       xml_bdhits_channels: File.expand_path("../../xml/bdhits", __FILE__),
+
+    },
+    
+    mountpoint: {
+    
+      port:443,
+      server_ip:'192.168.1.251',
 
     }
     

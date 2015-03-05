@@ -14,6 +14,8 @@ HOST=IMPORTXML::Config[:db][:host]
 USERNAME=IMPORTXML::Config[:db][:user]
 PASSWORD=IMPORTXML::Config[:db][:password]
 DATABASE=IMPORTXML::Config[:db][:database]
+MOUNTPOINTPORT=IMPORTXML::Config[:mountpoint][:port]
+MOUNTPOINTIP=IMPORTXML::Config[:mountpoint][:server_ip]
 
 def check_db
   begin
@@ -90,7 +92,6 @@ def create_channel channel_number, channel_name
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
     channel_id=generate_unique_id
     channel_description_escp=con.escape "#{channel_name}" 
-    
     rs=con.query("INSERT INTO channels (channel_id,channel_num,channel_description,channel_enabled) VALUES('#{channel_id}','#{channel_number}','#{channel_description_escp}',0)") 
     
     puts "The channel #{channel_name} has been created"
@@ -188,6 +189,23 @@ def remove_old_playlists
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
     con.query("DELETE FROM playlists_calendar WHERE calendar_datetime <= '#{date}'");
     puts "Remove old playlist calendar from #{date} before";
+  rescue Mysql2::Error => e
+    puts e.errno
+    puts e.error
+  ensure
+    con.close if con
+  end
+end
+
+def create_mountpoint channel_id,channel_number
+begin
+    con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
+    mountpoint_id=generate_unique_id
+
+    sql="INSERT INTO mountpoints (mountpoint_id,channel_id,server_ip,server_port,server_path) "
+    sql+="VALUES('#{mountpoint_id}',#{channel_id},'#{MOUNTPOINTIP}',#{MOUNTPOINTPORT},'/#{channel_number}.ogg')";
+    con.query("#{sql}")
+    puts "Creating mountpoint for #{channel_number}" 
   rescue Mysql2::Error => e
     puts e.errno
     puts e.error
