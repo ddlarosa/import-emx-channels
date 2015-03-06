@@ -111,7 +111,6 @@ def exists_songs playlist
  
   playlist.songs.each do |song|
     rs=con.query("SELECT * FROM playlists_files WHERE file_id='#{song.file}'")
-    #song=true unless rs.count<=0 
     song.db_exists=true unless rs.count<=0
   end 
 
@@ -131,11 +130,16 @@ def insert_songs songs
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
      
     songs.each do |song| 
-      artist_escape=con.escape "#{song.artist}" 
-      title_escape=con.escape "#{song.title}" 
-      query="INSERT INTO playlists_files (file_id,file_path,file_length,file_artist,file_title) ";
-      query+="VALUES ('#{song.file}','#{song.file}.ogg',#{song.duration},'#{artist_escape}','#{title_escape}')";
-      con.query("#{query}");
+      begin
+       artist_escape=con.escape "#{song.artist}" 
+       title_escape=con.escape "#{song.title}" 
+       query="INSERT INTO playlists_files (file_id,file_path,file_length,file_artist,file_title) ";
+       query+="VALUES ('#{song.file}','#{song.file}.ogg',#{song.duration},'#{artist_escape}','#{title_escape}')";
+       con.query("#{query}");
+      rescue Mysql2::Error => e2
+        puts e2.errno
+        puts e2.error
+      end
     end 
 
   rescue Mysql2::Error => e

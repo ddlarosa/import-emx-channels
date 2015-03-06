@@ -42,3 +42,19 @@ def get_num_channel num
   end
   return num 
 end
+
+def show_channels_bdhits playlists 
+  playlists.each do |playlist|
+    puts "ID CHANNEL #{playlist.channel_number} ---- #{playlist.channel_name}"
+  end
+end
+
+def show_first_last_bdhits playlists
+  playlists.each do |playlist|
+    puts "ID CHANNEL #{playlist.channel_number} ---- #{playlist.channel_name}" 
+    songs=playlist.songs
+    pp songs.first
+    pp songs.last
+    puts "*****************" 
+  end
+end
