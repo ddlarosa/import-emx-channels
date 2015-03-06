@@ -21,11 +21,11 @@ playlists = Array.new
       if node.name == 'CANCION'  # /playlists/playlist/song
         begin
           song = Song.new
-          song.title = CGI::unescape_html node.attribute('titulo')
+          song.title = CGI::unescape_html node.attribute('titulo').strip
           song.duration = node.attribute('duracion').to_i
-          song.artist = CGI::unescape_html node.attribute('interprete')
-	  song.file = node.inner_xml.split('/').last.gsub(/.ogg/,'')
-          song.init_hour = node.attribute('fecha')
+          song.artist = CGI::unescape_html node.attribute('interprete').strip
+	  song.file = node.inner_xml.split('/').last.gsub(/.ogg/,'').strip
+          song.init_hour = node.attribute('fecha').strip
           song.db_exists = false
           playlists.last.push_song song 
         rescue StandardError => e
@@ -35,8 +35,8 @@ playlists = Array.new
       elsif node.name == 'PLAYLIST'  # /playlists/playlist
          begin
           playlist = Playlist.new
-          playlist.channel_number = CGI::unescape_html node.attribute('canal')
-	  playlist.channel_name = CGI::unescape_html node.attribute('nombrecanal')
+          playlist.channel_number = CGI::unescape_html node.attribute('canal').strip
+	  playlist.channel_name = CGI::unescape_html node.attribute('nombrecanal').gsub(/&/,'-').strip
           playlists << playlist
         rescue StandardError => e
           errors += 1

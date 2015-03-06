@@ -16,6 +16,7 @@ PASSWORD=IMPORTXML::Config[:db][:password]
 DATABASE=IMPORTXML::Config[:db][:database]
 MOUNTPOINTPORT=IMPORTXML::Config[:mountpoint][:port]
 MOUNTPOINTIP=IMPORTXML::Config[:mountpoint][:server_ip]
+LOG=IMPORTXML::Config[:paths][:logs]
 
 def check_db
   begin
@@ -141,7 +142,6 @@ def insert_songs songs
         puts e2.error
       end
     end 
-
   rescue Mysql2::Error => e
     puts e.errno
     puts e.error
