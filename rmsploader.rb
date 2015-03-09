@@ -9,15 +9,22 @@ require_relative 'config/base'
 require_relative 'lib/utils'
 require_relative 'lib/xml'
 require_relative 'lib/db'
+require 'logger'
 require 'pp'
 require 'optparse'
 require 'optparse/time'
 require 'ostruct'
 
+#Logged the init process
+LOG.info("Inicio ejecucion rmsploader") 
+
 #The number of day to process
 number_day=nil
+
+#The xml file to process
 xml_path="#{IMPORTXML::Config[:paths][:xml_emx_channels]}/"
 
+#Get parameters via command line 
 options = OpenStruct.new
 
 OptionParser.new do |opts|
@@ -51,7 +58,7 @@ elsif
   end  
 end
 
-#Get the date depens on number day
+#Get the date (Depens on number day)
 date = get_date_loader number_day
 
 #Remove the old playlists
@@ -61,6 +68,7 @@ puts ""
 #Get the new xml playlist to process (EMX)
 xmls_to_process=get_emx_to_process(xml_path,date) 
 
+#Process all xml files 
 xmls_to_process.each do |xml_file|
  
  puts ""
@@ -99,6 +107,9 @@ xmls_to_process.each do |xml_file|
  remove_playlist_channel_date(playlist.channel_id,date)
  
  #Insert playlist with time
- insert_playlist_calendar playlist
+ insert_playlist_calendar(playlist)
+ 
+ #Logged the end process
  puts "***********************************************************"
 end 
+LOG.info("Fin ejecucion rmsploader")

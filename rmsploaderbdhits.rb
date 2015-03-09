@@ -14,6 +14,8 @@ require 'optparse'
 require 'optparse/time'
 require 'ostruct'
 
+LOG.info("Inicio ejecucion rmsploaderbdhits")
+
 #The number of day to process
 number_day=nil
 xml_path="#{IMPORTXML::Config[:paths][:xml_bdhits_channels]}/"
@@ -103,4 +105,5 @@ playlists.each do |playlist|
   insert_playlist_calendar playlist
   puts "***********************************************************"
 
+  LOG.info("Fin ejecucion rmsploaderbdhits")
 end

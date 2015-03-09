@@ -8,6 +8,7 @@
 require 'bundler/setup'
 require "mysql2"
 require_relative '../config/base'
+require 'logger'
 
 #Database configuration
 HOST=IMPORTXML::Config[:db][:host]
@@ -16,7 +17,12 @@ PASSWORD=IMPORTXML::Config[:db][:password]
 DATABASE=IMPORTXML::Config[:db][:database]
 MOUNTPOINTPORT=IMPORTXML::Config[:mountpoint][:port]
 MOUNTPOINTIP=IMPORTXML::Config[:mountpoint][:server_ip]
-LOG=IMPORTXML::Config[:paths][:logs]
+LOGFILE_DIR=IMPORTXML::Config[:paths][:logs]
+
+#Inizialite Log File
+today=date=(Time.now-(15*60)).strftime("%Y%m%d")
+logfile="#{LOGFILE_DIR}/#{today}"
+LOG = Logger.new("#{logfile}", 'monthly')
 
 def check_db
   begin
@@ -93,6 +99,8 @@ def create_channel channel_number, channel_name
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
     channel_id=generate_unique_id
     channel_description_escp=con.escape "#{channel_name}" 
+    LOG.info("Creamos un el nuevo canal #{channel_description_escp}")
+
     rs=con.query("INSERT INTO channels (channel_id,channel_num,channel_description,channel_enabled) VALUES('#{channel_id}','#{channel_number}','#{channel_description_escp}',0)") 
     
     puts "The channel #{channel_name} has been created"
@@ -137,7 +145,9 @@ def insert_songs songs
        query="INSERT INTO playlists_files (file_id,file_path,file_length,file_artist,file_title) ";
        query+="VALUES ('#{song.file}','#{song.file}.ogg',#{song.duration},'#{artist_escape}','#{title_escape}')";
        con.query("#{query}");
+       LOG.info("Insertando nueva cancion #{song.file}.ogg")   
       rescue Mysql2::Error => e2
+        LOG.warn("La cancion #{e2.error} ya existe en la base de datos")
         puts e2.errno
         puts e2.error
       end
@@ -164,6 +174,7 @@ def insert_playlist_calendar playlist
     con.query("#{sql}");
   end
   puts "Inserting playlists calendar for channel #{channel_id}"
+  LOG.info("Insertando playlists calendar para el canal #{channel_id}")
   rescue Mysql2::Error => e
     puts e.errno
     puts e.error
@@ -193,6 +204,7 @@ def remove_old_playlists
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
     con.query("DELETE FROM playlists_calendar WHERE calendar_datetime <= '#{date}'");
     puts "Remove old playlist calendar from #{date} before";
+    LOG.info("Eleminando antiguas playlists anteriores a #{date}")
   rescue Mysql2::Error => e
     puts e.errno
     puts e.error
@@ -210,6 +222,7 @@ begin
     sql+="VALUES('#{mountpoint_id}',#{channel_id},'#{MOUNTPOINTIP}',#{MOUNTPOINTPORT},'/#{channel_number}.ogg')";
     con.query("#{sql}")
     puts "Creating mountpoint for #{channel_number}" 
+    LOG.info("Creando punto de montaje para el canal #{channel_number}")
   rescue Mysql2::Error => e
     puts e.errno
     puts e.error
