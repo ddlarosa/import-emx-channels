@@ -67,6 +67,7 @@ def check_channel channel_number
     rs.count
 
   rescue Mysql2::Error => e
+    LOG.warn("Error al chequear el canal #{e.error}")
     puts e.errno
     puts e.error
   ensure
@@ -87,6 +88,7 @@ def get_channel_id channel_number
     return channel_id
 
   rescue Mysql2::Error => e
+    LOG.warn("Error al recuperar el channel id #{e.error}")
     puts e.errno
     puts e.error
   ensure
@@ -106,6 +108,7 @@ def create_channel channel_number, channel_name
     puts "The channel #{channel_name} has been created"
     return channel_id 
   rescue Mysql2::Error => e
+    LOG.warn("Error al crear un canal nuevo #{e.error}")
     puts e.errno
     puts e.error
   ensure
@@ -126,6 +129,7 @@ def exists_songs playlist
   return playlist
 
   rescue Mysql2::Error => e
+    LOG.warn("Error al comprobar que existen canciones  #{e.error}")
     puts e.errno
     puts e.error
   ensure
@@ -176,6 +180,7 @@ def insert_playlist_calendar playlist
   puts "Inserting playlists calendar for channel #{channel_id}"
   LOG.info("Insertando playlists calendar para el canal #{channel_id}")
   rescue Mysql2::Error => e
+    LOG.warn("Error al insertar playlists_calendar #{e.error}")
     puts e.errno
     puts e.error
   ensure
@@ -189,8 +194,10 @@ def remove_playlist_channel_date channel_id,date
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
 
     con.query("DELETE FROM playlists_calendar WHERE channel_id='#{channel_id}' AND calendar_datetime LIKE '#{mysql_date}%'");
+    puts "DELETE FROM playlists_calendar WHERE channel_id='#{channel_id}' AND calendar_datetime LIKE '#{mysql_date}%'";
     puts "Remove playlist from channel #{channel_id} and date #{date}" 
   rescue Mysql2::Error => e
+    LOG.warn("Error al eliminar playlists channel date #{e.error}")
     puts e.errno
     puts e.error
   ensure
@@ -203,9 +210,11 @@ def remove_old_playlists
     date=(Time.now-(15*60)).strftime("%Y-%m-%d %H:%M:%S");
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
     con.query("DELETE FROM playlists_calendar WHERE calendar_datetime <= '#{date}'");
+    puts "DELETE FROM playlists_calendar WHERE calendar_datetime <= '#{date}'" 
     puts "Remove old playlist calendar from #{date} before";
     LOG.info("Eleminando antiguas playlists anteriores a #{date}")
   rescue Mysql2::Error => e
+    LOG.warn("Error al playlists antiguas #{e.error}")
     puts e.errno
     puts e.error
   ensure
@@ -224,6 +233,7 @@ begin
     puts "Creating mountpoint for #{channel_number}" 
     LOG.info("Creando punto de montaje para el canal #{channel_number}")
   rescue Mysql2::Error => e
+    LOG.warn("Error al crear nuevos puntos de montaje #{e.error}")
     puts e.errno
     puts e.error
   ensure
