@@ -15,6 +15,9 @@ require 'optparse'
 require 'optparse/time'
 require 'ostruct'
 
+#Channels permit to process
+channels_permit=IMPORTXML::Config[:channels_permit_emx][:channels]
+
 #Logged the init process
 LOG.info("Inicio ejecucion rmsploader") 
 
@@ -71,45 +74,50 @@ xmls_to_process=get_emx_to_process(xml_path,date)
 #Process all xml files 
 xmls_to_process.each do |xml_file|
  
- puts ""
- puts "***********************************************************"
- puts "Processing channel #{xml_file}"
+ if valid_emx_channel(xml_file,channels_permit)
 
- #This is the mount point of the chanel
- channel_id=""
+   puts ""
+   puts "***********************************************************"
+   puts "Processing channel #{xml_file}"
 
- #Parse the xml playlist to process  
- playlist=read_emx_xml(xml_file) 
+   #This is the mount point of the chanel
+   channel_id=""
+
+   #Parse the xml playlist to process  
+   playlist=read_emx_xml(xml_file) 
  
- #Modify channel_number three digits with zeros 
- playlist.channel_number=get_num_channel(playlist.channel_number)
+   #Modify channel_number three digits with zeros 
+   playlist.channel_number=get_num_channel(playlist.channel_number)
 
- #Create the new channels 
- if (check_channel(playlist.channel_number)==0)
-   playlist.channel_id=create_channel(playlist.channel_number, playlist.channel_name)
-   create_mountpoint(playlist.channel_id,playlist.channel_number)
- elsif
-   playlist.channel_id=get_channel_id(playlist.channel_number)
- end
+   #Create the new channels 
+   if (check_channel(playlist.channel_number)==0)
+     playlist.channel_id=create_channel(playlist.channel_number, playlist.channel_name)
+     create_mountpoint(playlist.channel_id,playlist.channel_number)
+   elsif
+     playlist.channel_id=get_channel_id(playlist.channel_number)
+   end
  
- #Insert the new songs into system 
- playlist=exists_songs(playlist)
+   #Insert the new songs into system 
+   playlist=exists_songs(playlist)
 
- new_songs=Array.new
+   new_songs=Array.new
 
- playlist.songs.each do |song|
-   new_songs << song unless song.db_exists
- end 
+   playlist.songs.each do |song|
+     new_songs << song unless song.db_exists
+   end 
 
- insert_songs(new_songs) unless new_songs.count <= 0 
+   insert_songs(new_songs) unless new_songs.count <= 0 
 
- #Remove the same playlist into the same day that we are processing
- remove_playlist_channel_date(playlist.channel_id,date)
+   #Remove the same playlist into the same day that we are processing
+   remove_playlist_channel_date(playlist.channel_id,date)
  
- #Insert playlist with time
- insert_playlist_calendar(playlist)
+   #Insert playlist with time
+   insert_playlist_calendar(playlist)
  
- #Logged the end process
- puts "***********************************************************"
+   #Logged the end process
+   puts "***********************************************************"
+
+  end
+
 end 
 LOG.info("Fin ejecucion rmsploader")

@@ -4597,3 +4597,54 @@ I, [2015-03-10T12:34:18.421644 #8392]  INFO -- : Insertando nueva cancion 011649
 I, [2015-03-10T12:34:18.421801 #8392]  INFO -- : Insertando nueva cancion 014336100.ogg
 I, [2015-03-10T12:34:18.501274 #8392]  INFO -- : Insertando playlists calendar para el canal 83748685698686823418
 I, [2015-03-10T12:34:18.501452 #8392]  INFO -- : Fin ejecucion rmsploader
+I, [2015-03-10T12:40:01.541313 #8551]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T12:40:01.781504 #8551]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:25:01
+I, [2015-03-10T12:40:01.945616 #8551]  INFO -- : Insertando playlists calendar para el canal 72748687897584753415
+I, [2015-03-10T12:40:02.120522 #8551]  INFO -- : Insertando playlists calendar para el canal 67657571706573863415
+I, [2015-03-10T12:40:02.313793 #8551]  INFO -- : Insertando playlists calendar para el canal 86666769796685683415
+I, [2015-03-10T12:40:02.532625 #8551]  INFO -- : Insertando playlists calendar para el canal 87756976658666753415
+I, [2015-03-10T12:40:02.701298 #8551]  INFO -- : Insertando playlists calendar para el canal 90707786877570853415
+I, [2015-03-10T12:40:02.870924 #8551]  INFO -- : Insertando playlists calendar para el canal 78736881839076683416
+I, [2015-03-10T12:40:03.042558 #8551]  INFO -- : Insertando playlists calendar para el canal 79756968787078683416
+I, [2015-03-10T12:40:03.222606 #8551]  INFO -- : Insertando playlists calendar para el canal 76807771736574753416
+I, [2015-03-10T12:40:03.334511 #8551]  INFO -- : Insertando playlists calendar para el canal 87758182708979783416
+I, [2015-03-10T12:40:03.517564 #8551]  INFO -- : Insertando playlists calendar para el canal 87828465698180673417
+I, [2015-03-10T12:40:03.694643 #8551]  INFO -- : Insertando playlists calendar para el canal 86827885666672813417
+I, [2015-03-10T12:40:03.907271 #8551]  INFO -- : Insertando playlists calendar para el canal 76767978697479853417
+I, [2015-03-10T12:40:04.070700 #8551]  INFO -- : Insertando playlists calendar para el canal 78737270737179733417
+I, [2015-03-10T12:40:04.258640 #8551]  INFO -- : Insertando playlists calendar para el canal 83777671748778903417
+I, [2015-03-10T12:40:04.453716 #8551]  INFO -- : Insertando playlists calendar para el canal 68886769768278783418
+I, [2015-03-10T12:40:04.611424 #8551]  INFO -- : Insertando playlists calendar para el canal 83748685698686823418
+I, [2015-03-10T12:40:04.611556 #8551]  INFO -- : Fin ejecucion rmsploader
+I, [2015-03-10T12:52:14.956303 #9016]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T12:52:15.233708 #9016]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:37:14
+I, [2015-03-10T12:55:58.750720 #9079]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T12:55:58.755076 #9079]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:40:58
+I, [2015-03-10T12:57:55.830484 #9164]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T12:57:55.834469 #9164]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:42:55
+I, [2015-03-10T12:58:45.355654 #9191]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T12:58:45.359069 #9191]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:43:45
+I, [2015-03-10T13:00:13.158165 #9224]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T13:00:13.161950 #9224]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:45:13
+I, [2015-03-10T13:00:54.319507 #9250]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T13:00:54.323264 #9250]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:45:54
+I, [2015-03-10T13:02:06.398935 #9294]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T13:02:06.402656 #9294]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:47:06
+I, [2015-03-10T13:02:35.742796 #9322]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T13:02:35.746266 #9322]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:47:35
+I, [2015-03-10T13:03:57.784425 #9354]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T13:03:57.788304 #9354]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:48:57
+I, [2015-03-10T13:04:56.269535 #9401]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T13:04:56.272901 #9401]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:49:56
+I, [2015-03-10T13:09:49.299473 #9529]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T13:09:49.304976 #9529]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:54:49
+I, [2015-03-10T13:11:43.977020 #9578]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T13:11:43.997744 #9578]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:56:43
+I, [2015-03-10T13:11:44.156545 #9578]  INFO -- : Insertando playlists calendar para el canal 86827885666672813417
+I, [2015-03-10T13:11:44.345060 #9578]  INFO -- : Insertando playlists calendar para el canal 68886769768278783418
+I, [2015-03-10T13:11:44.345288 #9578]  INFO -- : Fin ejecucion rmsploader
+I, [2015-03-10T13:13:20.002203 #9632]  INFO -- : Inicio ejecucion rmsploader
+I, [2015-03-10T13:13:20.040138 #9632]  INFO -- : Eleminando antiguas playlists anteriores a 2015-03-10 12:58:20
+I, [2015-03-10T13:13:20.189329 #9632]  INFO -- : Insertando playlists calendar para el canal 86827885666672813417
+I, [2015-03-10T13:13:20.362372 #9632]  INFO -- : Insertando playlists calendar para el canal 68886769768278783418
+I, [2015-03-10T13:13:20.362566 #9632]  INFO -- : Fin ejecucion rmsploader

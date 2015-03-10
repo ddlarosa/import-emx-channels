@@ -194,7 +194,7 @@ def remove_playlist_channel_date channel_id,date
     con=Mysql2::Client.new(host:HOST, username:USERNAME, password:PASSWORD, database:DATABASE);
 
     con.query("DELETE FROM playlists_calendar WHERE channel_id='#{channel_id}' AND calendar_datetime LIKE '#{mysql_date}%'");
-    puts "DELETE FROM playlists_calendar WHERE channel_id='#{channel_id}' AND calendar_datetime LIKE '#{mysql_date}%'";
+
     puts "Remove playlist from channel #{channel_id} and date #{date}" 
   rescue Mysql2::Error => e
     LOG.warn("Error al eliminar playlists channel date #{e.error}")

@@ -38,7 +38,13 @@ module IMPORTXML
       # icescast server ip 
       server_ip:'192.168.1.251',
 
-    }
+    },
+    
+    channels_permit_emx: {
+      # IDs the channel that the scripts process
+      channels: [25,79], 
+
+    },
     
   }
     

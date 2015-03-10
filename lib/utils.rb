@@ -58,3 +58,9 @@ def show_first_last_bdhits playlists
     puts "*****************" 
   end
 end
+
+def valid_emx_channel xml_file,channels_permit
+  xml_name_file=xml_file.split("/")[-1].gsub(".xml","")
+  channel_num=xml_name_file.split("-")[-1].to_i
+  return channels_permit.include?(channel_num)
+end 
