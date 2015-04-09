@@ -45,6 +45,11 @@ module IMPORTXML
       channels: [25,79], 
 
     },
+  
+    mail: {
+      user: 'ddlarosa@musicam.es',	
+      password: '1_david_1',
+    },
     
   }
     

@@ -9,11 +9,14 @@ require_relative 'config/base'
 require_relative 'lib/utils'
 require_relative 'lib/xml'
 require_relative 'lib/db'
+
+require 'net/smtp'
 require 'logger'
 require 'pp'
 require 'optparse'
 require 'optparse/time'
 require 'ostruct'
+require 'yaml'
 
 #Channels permit to process
 channels_permit=IMPORTXML::Config[:channels_permit_emx][:channels]
@@ -69,7 +72,33 @@ remove_old_playlists
 puts ""
 
 #Get the new xml playlist to process (EMX)
-xmls_to_process=get_emx_to_process(xml_path,date) 
+xmls_to_process=get_emx_to_process(xml_path,date)
+
+#Check if exists all xml files
+channels_xmls=get_xml_channel_num xmls_to_process
+channels_missed = channels_permit - channels_xmls
+
+if channels_missed.count > 0
+  puts "FALTAN PLAYLISTS PARA LOS CANALES #{channels_missed} en el día #{date}"
+  
+  user=IMPORTXML::Config[:mail][:user]
+  password=IMPORTXML::Config[:mail][:password]
+  channel_missed_str=channels_missed.join(",")
+  
+  message = <<EOF
+From: SENDER <ddlarosa@musicam.es>
+To: RECEIVER <david.ruizdelarosa@gmail.com>
+Subject: Missed xml playlists into stream
+Faltan playlists para los canales #{channel_missed_str} en el día #{date} 
+EOF
+  
+  smtp = Net::SMTP.new 'smtp.gmail.com', 587
+  smtp.enable_starttls
+  smtp.start('gmail.com', "#{user}", "#{password}", :login) do |smtp|
+    smtp.send_message message, "#{user}", 'david.ruizdelarosa@gmail.com'
+  end
+  exit
+end
 
 #Process all xml files 
 xmls_to_process.each do |xml_file|
@@ -116,8 +145,8 @@ xmls_to_process.each do |xml_file|
  
    #Logged the end process
    puts "***********************************************************"
-
-  end
+   
+ end
 
 end 
 LOG.info("Fin ejecucion rmsploader")

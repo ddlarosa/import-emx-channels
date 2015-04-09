@@ -1,2 +1,3 @@
 *.xml
 vendor/**
+logs/**

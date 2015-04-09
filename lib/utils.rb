@@ -63,4 +63,18 @@ def valid_emx_channel xml_file,channels_permit
   xml_name_file=xml_file.split("/")[-1].gsub(".xml","")
   channel_num=xml_name_file.split("-")[-1].to_i
   return channels_permit.include?(channel_num)
-end 
+end
+
+def get_xml_channel_num arr_xml_channels
+  
+  my_channels=[]
+  
+  arr_xml_channels.each do |xml|
+    pos_ini=xml.index(/-ch-/)
+    pos_fin=xml.index(/\.xml/)
+    my_channels << "#{xml[pos_ini+4,(pos_fin-(pos_ini+4))]}".to_i
+  end
+  
+  return my_channels
+
+end
