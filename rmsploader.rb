@@ -86,8 +86,8 @@ if channels_missed.count > 0
   channel_missed_str=channels_missed.join(",")
   
   message = <<EOF
-From: SENDER <ddlarosa@musicam.es>
-To: RECEIVER <david.ruizdelarosa@gmail.com>
+From: RMS SERVER <rms@musicam.es>
+To: Tecnica <tecnica@musicam.es>
 Subject: Missed xml playlists into stream
 Faltan playlists para los canales #{channel_missed_str} en el día #{date} 
 EOF
@@ -95,9 +95,11 @@ EOF
   smtp = Net::SMTP.new 'smtp.gmail.com', 587
   smtp.enable_starttls
   smtp.start('gmail.com', "#{user}", "#{password}", :login) do |smtp|
-    smtp.send_message message, "#{user}", 'david.ruizdelarosa@gmail.com'
+    smtp.send_message message, "#{user}", 'tecnica@musicam.es'
   end
-  exit
+  smtp.start('gmail.com', "#{user}", "#{password}", :login) do |smtp|
+    smtp.send_message message, "#{user}", 'estudio@musicam.es'
+  end
 end
 
 #Process all xml files 

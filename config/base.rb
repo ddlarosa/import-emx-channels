@@ -47,8 +47,8 @@ module IMPORTXML
     },
   
     mail: {
-      user: 'ddlarosa@musicam.es',	
-      password: '1_david_1',
+      user: 'rms@musicam.es',	
+      password: '1_rmsserver_1',
     },
     
   }
